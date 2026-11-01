@@ -795,23 +795,6 @@
      "desc": ""
     },
     {
-     "id": "01M5DTN7C35ENS1WA7ET65E3QB",
-     "title": "Cricket 07",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Cricket07.png",
-     "playUrl": "https://cricket07.dhaiwat.com/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Sports",
-      "Simulation",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4YVQTQE90S38WTZ0BKXH8Q2",
      "title": "FIFA Street 2",
      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/FIFA_Street_2_Coverart.png",
@@ -6926,23 +6909,6 @@
       "Arcade",
       "Racing",
       "Indie"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5DTN7C35ENS1WA7ET65E3QB",
-     "title": "Cricket 07",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Cricket07.png",
-     "playUrl": "https://cricket07.dhaiwat.com/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Sports",
-      "Simulation",
-      "Multiplayer"
      ],
      "desc": ""
     },
