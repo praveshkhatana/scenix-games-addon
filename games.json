@@ -282,7 +282,7 @@
     {
      "id": "01M5P15X8SY3PRM2N1XK1AC26N",
      "title": "Def Jam: Fight for NY",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
      "playUrl": "https://def-jam.online/",
      "coi": false,
      "pad": true,
@@ -424,7 +424,7 @@
     {
      "id": "01M5P15X8SY3PRM2N1XK1AC26N",
      "title": "Def Jam: Fight for NY",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
      "playUrl": "https://def-jam.online/",
      "coi": false,
      "pad": true,
@@ -604,7 +604,7 @@
     {
      "id": "01M5XSA2YMNGNG9EC208SAV385",
      "title": "Counter-Strike Surf",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/Counter-Strike_surf_egypt2_screenshot.png",
      "playUrl": "https://surfd.net/",
      "coi": false,
      "pad": false,
@@ -672,7 +672,7 @@
     {
      "id": "01M5MDYY1PG4GVKA89PBVZNPCJ",
      "title": "Grand Theft Auto: Vice City",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://quenq.com/apps/vice-city/",
      "coi": false,
      "pad": true,
@@ -708,7 +708,7 @@
     {
      "id": "01M2S6FQD9YE64PB0SVJQK9A5H",
      "title": "Grand Theft Auto III",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg",
      "playUrl": "https://wasm.rip/files/gta3/index.html",
      "coi": false,
      "pad": true,
@@ -760,7 +760,7 @@
     {
      "id": "01M3N81XY54NJVP6JZRJDB8NSW",
      "title": "1080° Snowboarding",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#1080snowboarding",
      "coi": false,
      "pad": true,
@@ -777,7 +777,7 @@
     {
      "id": "01M5MEQVMX01FKZ1HT6TWHX0ZJ",
      "title": "Burnout 3: Takedown",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Burnout_3_-_Takedown_Coverart.jpg",
      "playUrl": "https://burnout3.online/",
      "coi": false,
      "pad": true,
@@ -795,7 +795,7 @@
     {
      "id": "01M2S6FQDH1CFV1758MKBPD4S6",
      "title": "Crashout Crew",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Crashout_Crew.jpg",
      "playUrl": "https://wasm.rip/files/cc/index.html",
      "coi": false,
      "pad": true,
@@ -812,7 +812,7 @@
     {
      "id": "01M5DTN7C35ENS1WA7ET65E3QB",
      "title": "Cricket 07",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Cricket07.png",
      "playUrl": "https://cricket07.dhaiwat.com/",
      "coi": false,
      "pad": true,
@@ -829,7 +829,7 @@
     {
      "id": "01M4YVQTQE90S38WTZ0BKXH8Q2",
      "title": "FIFA Street 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/FIFA_Street_2_Coverart.png",
      "playUrl": "https://fifastreet2.fun/",
      "coi": false,
      "pad": true,
@@ -846,7 +846,7 @@
     {
      "id": "01M5QN4SAH0W3GXZGXG87C7GR1",
      "title": "Formula One 06",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/F1_06.jpg",
      "playUrl": "https://f12006.online/",
      "coi": false,
      "pad": true,
@@ -862,7 +862,7 @@
     {
      "id": "01M4XBZEZPQ7BYW71ZXG49M3R1",
      "title": "Happy Wheels",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/76/Happy_Wheels_Logo.png",
      "playUrl": "https://totaljerkface.com/happy_wheels.tjf",
      "coi": false,
      "pad": false,
@@ -879,7 +879,7 @@
     {
      "id": "01M5FAJZZWDWYGFNCNBVMFGB70",
      "title": "Hill Climb Racing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HillClimbRacingLogoNew.png",
      "playUrl": "https://wasm.rip/files/hcr/index.html",
      "coi": false,
      "pad": false,
@@ -895,7 +895,7 @@
     {
      "id": "01M50NZEXCC1RB3GG1TQEH688H",
      "title": "Hot Shots Golf",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Everybody%27s_Golf_Hot_Shots_steam_header.jpg",
      "playUrl": "https://oldgames.app/games/ps1/hot-shots-golf-ps1-9226",
      "coi": false,
      "pad": true,
@@ -1289,7 +1289,7 @@
     {
      "id": "01M44503CEN5XSHT5W09SEK5M7",
      "title": "Hollow Knight",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
      "coi": false,
      "pad": true,
@@ -1410,7 +1410,7 @@
     {
      "id": "01M5W491VSJPDMJFFHCG2KH8TB",
      "title": "Fear & Hunger",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Fear_%26_Hunger.jpg",
      "playUrl": "https://gn-math.dev/?id=706",
      "coi": false,
      "pad": true,
@@ -1446,7 +1446,7 @@
     {
      "id": "01M5MDYY1PG4GVKA89PBVZNPCJ",
      "title": "Grand Theft Auto: Vice City",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://quenq.com/apps/vice-city/",
      "coi": false,
      "pad": true,
@@ -1464,7 +1464,7 @@
     {
      "id": "01M2S6FQCD98DEJNR1A64GJEM7",
      "title": "Cuphead",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
      "playUrl": "https://wasm.rip/files/cuphead/index.html",
      "coi": false,
      "pad": true,
@@ -1535,7 +1535,7 @@
     {
      "id": "01M2S6FQD9YE64PB0SVJQK9A5H",
      "title": "Grand Theft Auto III",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg",
      "playUrl": "https://wasm.rip/files/gta3/index.html",
      "coi": false,
      "pad": true,
@@ -1588,7 +1588,7 @@
     {
      "id": "01M43QB99Z7168318Q3B13SDEC",
      "title": "Balatro",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Balatro_cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/balatro/index.html",
      "coi": false,
      "pad": true,
@@ -1623,7 +1623,7 @@
     {
      "id": "01M43QB9A7XZ86ESQKKQR0DYYQ",
      "title": "Buckshot Roulette",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/72/Buckshot_Roulette_Cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/buckshot/index.html",
      "coi": false,
      "pad": true,
@@ -1657,7 +1657,7 @@
     {
      "id": "01M43QB99T8SPYYM8N3JSK1E1W",
      "title": "A Difficult Game About Climbing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/A_Difficult_Game_About_Climbing_Coverart.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/gamefile/adgac.html",
      "coi": false,
      "pad": true,
@@ -1711,7 +1711,7 @@
     {
      "id": "01M2S6FQDCYDENCYY2A19SCNX3",
      "title": "Clustertruck",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8d/Clustertruck.svg/500px-Clustertruck.svg.png",
      "playUrl": "https://wasm.rip/files/ClusterTruck/clustertruck.html",
      "coi": false,
      "pad": true,
@@ -1728,7 +1728,7 @@
     {
      "id": "01M43QB99H5V33PBPMDN8PJB9F",
      "title": "20 Minutes Till Dawn",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/20_Minutes_Till_Dawn_title.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/20minutesbog/index.html",
      "coi": false,
      "pad": true,
@@ -1746,7 +1746,7 @@
     {
      "id": "01M30W4JVA91KD8ZMG32F66VMX",
      "title": "Abobo's Big Adventure",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Abobo%27s_Big_Adventure.jpg",
      "playUrl": "https://www.kongregate.com/en/games/pestoforce/abobos-big-adventure",
      "coi": false,
      "pad": false,
@@ -1782,7 +1782,7 @@
     {
      "id": "01M43QB99WB368V39D4AZMB1M8",
      "title": "Alien Hominid",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Alien_Hominid_cover.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/alien/index.html",
      "coi": false,
      "pad": false,
@@ -1800,7 +1800,7 @@
     {
      "id": "01M2S6FQD8H176M4GNFJH3CFMA",
      "title": "Among Us",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
      "playUrl": "https://wasm.rip/files/amongus/index.html",
      "coi": false,
      "pad": true,
@@ -1818,7 +1818,7 @@
     {
      "id": "01M5JM0K4SV4DEMT0G9N9Q1Q3P",
      "title": "Axiom Verge",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Axiom_Verge_Title.png",
      "playUrl": "https://agentcube.github.io/axiomverge-wasm",
      "coi": false,
      "pad": false,
@@ -1870,7 +1870,7 @@
     {
      "id": "01M43QB9A2Z91A7ZENQ7KJB1CB",
      "title": "Baldur's Gate 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Baldur%27s_Gate_box.PNG",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/baldurs-gate-2/index.html",
      "coi": false,
      "pad": false,
@@ -1905,7 +1905,7 @@
     {
      "id": "01M2S6FQC77P3SJBRHDYA5C7C2",
      "title": "Bendy and the Ink Machine",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bendy_and_the_Ink_Machine_logo.svg/1280px-Bendy_and_the_Ink_Machine_logo.svg.png",
      "playUrl": "https://wasm.rip/files/BATIM/index.html",
      "coi": false,
      "pad": true,
@@ -1923,7 +1923,7 @@
     {
      "id": "01M30H15H9Y0B5PYCHVCX36S7W",
      "title": "Beneath a Steel Sky",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/ce/Beneath_a_Steel_Sky_Coverart.png",
      "playUrl": "https://scummweb.tsilva.eu/#game-beneath-a-steel-sky",
      "coi": false,
      "pad": true,
@@ -1959,7 +1959,7 @@
     {
      "id": "01M30H15J9WYPBMFD1YYPNC5JR",
      "title": "Broken Sword 2.5: The Return of the Templars",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Broken_Sword_2.5_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-broken-sword-2-5-the-return-of-the-templars",
      "coi": false,
      "pad": true,
@@ -1995,7 +1995,7 @@
     {
      "id": "01M5BD4RVS351RK9ND2T802KBN",
      "title": "Carrion",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Carrion_%28video_game%29_Steam_storefront_header.jpg",
      "playUrl": "https://agentcube.github.io/carrion-wasm",
      "coi": false,
      "pad": false,
@@ -2031,7 +2031,7 @@
     {
      "id": "01M4GSNSWRCHYG4XWJXV2FSVDP",
      "title": "Cave Story",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Cave_Story_title_screen.png",
      "playUrl": "https://midzer.de/wasm/cavestory/",
      "coi": false,
      "pad": false,
@@ -2049,7 +2049,7 @@
     {
      "id": "01M43QB9A9Q0ZEAWA0VK05SJBJ",
      "title": "Celeste",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/celeste/index.html",
      "coi": false,
      "pad": true,
@@ -2066,7 +2066,7 @@
     {
      "id": "01M2S6FQCE604DCWZZ0PS61X2J",
      "title": "Cheese Rolling",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg",
      "playUrl": "https://wasm.rip/files/cheese-rolling/index.html",
      "coi": false,
      "pad": true,
@@ -2083,7 +2083,7 @@
     {
      "id": "01M43QB9ADPMB0WP4BT4RW231G",
      "title": "Class of '09",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Class_of_%2709_logo.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/C09/index.html",
      "coi": false,
      "pad": true,
@@ -2118,7 +2118,7 @@
     {
      "id": "01M43QB9AEHDAA5GB0XWRYFTQ0",
      "title": "Coffee Talk",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Coffee_Talk_video_game_cover_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/coffee/index.html",
      "coi": false,
      "pad": false,
@@ -2136,7 +2136,7 @@
     {
      "id": "01M3N81XXNPRXQBWXA94N8WM65",
      "title": "Conker's Bad Fur Day",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Conkersbfdbox.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#conkersbadfurday",
      "coi": false,
      "pad": true,
@@ -2154,7 +2154,7 @@
     {
      "id": "01M2S6FQDH1CFV1758MKBPD4S6",
      "title": "Crashout Crew",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Crashout_Crew.jpg",
      "playUrl": "https://wasm.rip/files/cc/index.html",
      "coi": false,
      "pad": true,
@@ -2171,7 +2171,7 @@
     {
      "id": "01M57P5XK316E2YP2EE0G40DV6",
      "title": "Crimsonland",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/Crimsonland.jpg",
      "playUrl": "https://crimson.land/play/",
      "coi": false,
      "pad": true,
@@ -2189,7 +2189,7 @@
     {
      "id": "01M3BAB0GB4VKRDPXZA226JGXD",
      "title": "Daggerfall",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daggerfall_Cover_art.gif",
      "playUrl": "https://daggerfalljs.dev/",
      "coi": false,
      "pad": false,
@@ -2261,7 +2261,7 @@
     {
      "id": "01M44503BS13G66ZM7BFNBWT1Y",
      "title": "Dome Keeper",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/55/Dome_Keeper_Cover_Art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/domekeeper/index.html",
      "coi": false,
      "pad": true,
@@ -2297,7 +2297,7 @@
     {
      "id": "01M30H15HZ8BHPX3T1KR9RA1HN",
      "title": "Dráscula: The Vampire Strikes Back",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Drascula_El_Vampiro_box_shot.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-drascula-the-vampire-strikes-back",
      "coi": false,
      "pad": true,
@@ -2314,7 +2314,7 @@
     {
      "id": "01M30H15HKAQCXT2HQFK7PJTDZ",
      "title": "DreamWeb",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2c/Dreamweb_cover.png",
      "playUrl": "https://scummweb.tsilva.eu/#game-dreamweb",
      "coi": false,
      "pad": true,
@@ -2332,7 +2332,7 @@
     {
      "id": "01M43EGYK2Z0B9EP1T40T8Z8A0",
      "title": "Dude, Stop",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dude%2C_Stop_cover_art.jpg",
      "playUrl": "https://wasm.rip/files/dudestop/index.html",
      "coi": false,
      "pad": false,
@@ -2350,7 +2350,7 @@
     {
      "id": "01M44503CB5T1W2MJBG882M8Y5",
      "title": "Endacopia",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Endacopia_Cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/endacopia/index.html",
      "coi": false,
      "pad": false,
@@ -2421,7 +2421,7 @@
     {
      "id": "01M47576GPK2GZMCFHBX1946QN",
      "title": "Fate/Stay Night",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Fate-stay_night.jpg",
      "playUrl": "https://fatestaynight.vnovel.org/",
      "coi": false,
      "pad": false,
@@ -2439,7 +2439,7 @@
     {
      "id": "01M2S6FQCRM1HSMBYA9ASWR7AP",
      "title": "FEZ",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fez_%28video_game%29_cover_art.png",
      "playUrl": "https://wasm.rip/files/FEZ/fez.html",
      "coi": false,
      "pad": true,
@@ -2511,7 +2511,7 @@
     {
      "id": "01M30H15HEQCMH01AS12PV578T",
      "title": "Flight of the Amazon Queen",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a6/Flight_of_the_Amazon_Queen_box_art.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
      "coi": false,
      "pad": true,
@@ -2565,7 +2565,7 @@
     {
      "id": "01M4R3TJ0J2RYT84F6HKRP11YX",
      "title": "Grand Theft Auto V",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://fiveplay.lol/",
      "coi": false,
      "pad": false,
@@ -2633,7 +2633,7 @@
     {
      "id": "01M4XBZEZPQ7BYW71ZXG49M3R1",
      "title": "Happy Wheels",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/76/Happy_Wheels_Logo.png",
      "playUrl": "https://totaljerkface.com/happy_wheels.tjf",
      "coi": false,
      "pad": false,
@@ -2650,7 +2650,7 @@
     {
      "id": "01M2S6FQCKDJJBEACBB6PQA00X",
      "title": "Helltaker",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Helltaker_Cover.jpg",
      "playUrl": "https://wasm.rip/files/Helltaker/helltaker.html",
      "coi": false,
      "pad": true,
@@ -2668,7 +2668,7 @@
     {
      "id": "01M47576HY12YDR3683M7NZD98",
      "title": "Hexen II",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b1/HexenIIbox.jpg",
      "playUrl": "https://dos.zone/hexen-2-fteqw/",
      "coi": false,
      "pad": false,
@@ -4294,7 +4294,7 @@
     {
      "id": "01M30H15H4VPHBE2C1WFSH5X53",
      "title": "Grand Theft Auto: Vice City",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
      "coi": false,
      "pad": true,
@@ -4312,7 +4312,7 @@
     {
      "id": "01M2S6FQCD98DEJNR1A64GJEM7",
      "title": "Cuphead",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
      "playUrl": "https://wasm.rip/files/cuphead/index.html",
      "coi": false,
      "pad": true,
@@ -4366,7 +4366,7 @@
     {
      "id": "01M43QB99T8SPYYM8N3JSK1E1W",
      "title": "A Difficult Game About Climbing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/A_Difficult_Game_About_Climbing_Coverart.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/gamefile/adgac.html",
      "coi": false,
      "pad": true,
@@ -4384,7 +4384,7 @@
     {
      "id": "01M4BP4FZYYRWQ3BRS3R59JTVM",
      "title": "Crash Bash",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/68/CrashBashCover.png",
      "playUrl": "https://crashbash.app/",
      "coi": false,
      "pad": true,
@@ -4402,7 +4402,7 @@
     {
      "id": "01M43QB99H5V33PBPMDN8PJB9F",
      "title": "20 Minutes Till Dawn",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/20_Minutes_Till_Dawn_title.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/20minutesbog/index.html",
      "coi": false,
      "pad": true,
@@ -4420,7 +4420,7 @@
     {
      "id": "01M47576H7SHZ25TKMQHBYTHAV",
      "title": "3D Pinball: Space Cadet",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7f/A_rebuilt_Terminator_2_pinball_machine_by_Wayne_Patrick_Finn_Melbourne_Australia._38.jpg",
      "playUrl": "https://dos.zone/microsoft-3d-pinball-space-cadet/",
      "coi": false,
      "pad": false,
@@ -4438,7 +4438,7 @@
     {
      "id": "01M30W4JVA91KD8ZMG32F66VMX",
      "title": "Abobo's Big Adventure",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Abobo%27s_Big_Adventure.jpg",
      "playUrl": "https://www.kongregate.com/en/games/pestoforce/abobos-big-adventure",
      "coi": false,
      "pad": false,
@@ -4456,7 +4456,7 @@
     {
      "id": "01M4PHXHF9XRJKB0R4BPP5J6V5",
      "title": "Amazing Alex",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Amazing_Alex_Official_Logo.png",
      "playUrl": "https://nomadic-ua.itch.io/amazing-alex",
      "coi": false,
      "pad": false,
@@ -4471,7 +4471,7 @@
     {
      "id": "01M5HSZB8H4SANGYQ25PTKAF3R",
      "title": "Angry Birds 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png",
      "playUrl": "https://naotomori1.github.io/AngryBirds2Port/",
      "coi": false,
      "pad": false,
@@ -4487,7 +4487,7 @@
     {
      "id": "01M4X88D29JXMN9X9NFE8R5XD9",
      "title": "Ballance",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Ballance_Coverart.png",
      "playUrl": "https://ballance.fayaz.workers.dev/",
      "coi": false,
      "pad": true,
@@ -4521,7 +4521,7 @@
     {
      "id": "01M2S6FQC77P3SJBRHDYA5C7C2",
      "title": "Bendy and the Ink Machine",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bendy_and_the_Ink_Machine_logo.svg/1280px-Bendy_and_the_Ink_Machine_logo.svg.png",
      "playUrl": "https://wasm.rip/files/BATIM/index.html",
      "coi": false,
      "pad": true,
@@ -4539,7 +4539,7 @@
     {
      "id": "01M30H15H9Y0B5PYCHVCX36S7W",
      "title": "Beneath a Steel Sky",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/ce/Beneath_a_Steel_Sky_Coverart.png",
      "playUrl": "https://scummweb.tsilva.eu/#game-beneath-a-steel-sky",
      "coi": false,
      "pad": true,
@@ -4557,7 +4557,7 @@
     {
      "id": "01M30H15J9WYPBMFD1YYPNC5JR",
      "title": "Broken Sword 2.5: The Return of the Templars",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Broken_Sword_2.5_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-broken-sword-2-5-the-return-of-the-templars",
      "coi": false,
      "pad": true,
@@ -4610,7 +4610,7 @@
     {
      "id": "01M2S6FQDH1CFV1758MKBPD4S6",
      "title": "Crashout Crew",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Crashout_Crew.jpg",
      "playUrl": "https://wasm.rip/files/cc/index.html",
      "coi": false,
      "pad": true,
@@ -4642,7 +4642,7 @@
     {
      "id": "01M2S6FQC4QTVFY4HW0QQG6ENR",
      "title": "Daedalian Opus",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/DaedalianOpusTitleScreen.png",
      "playUrl": "https://joyrider3774.itch.io/puzzle-land-playdate",
      "coi": false,
      "pad": true,
@@ -4676,7 +4676,7 @@
     {
      "id": "01M43EGYK2Z0B9EP1T40T8Z8A0",
      "title": "Dude, Stop",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dude%2C_Stop_cover_art.jpg",
      "playUrl": "https://wasm.rip/files/dudestop/index.html",
      "coi": false,
      "pad": false,
@@ -4694,7 +4694,7 @@
     {
      "id": "01M44503CB5T1W2MJBG882M8Y5",
      "title": "Endacopia",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Endacopia_Cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/endacopia/index.html",
      "coi": false,
      "pad": false,
@@ -4712,7 +4712,7 @@
     {
      "id": "01M2S6FQCRM1HSMBYA9ASWR7AP",
      "title": "FEZ",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fez_%28video_game%29_cover_art.png",
      "playUrl": "https://wasm.rip/files/FEZ/fez.html",
      "coi": false,
      "pad": true,
@@ -4730,7 +4730,7 @@
     {
      "id": "01M4YVQTQE90S38WTZ0BKXH8Q2",
      "title": "FIFA Street 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/FIFA_Street_2_Coverart.png",
      "playUrl": "https://fifastreet2.fun/",
      "coi": false,
      "pad": true,
@@ -4747,7 +4747,7 @@
     {
      "id": "01M30H15HEQCMH01AS12PV578T",
      "title": "Flight of the Amazon Queen",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a6/Flight_of_the_Amazon_Queen_box_art.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
      "coi": false,
      "pad": true,
@@ -4765,7 +4765,7 @@
     {
      "id": "01M4XBZEZPQ7BYW71ZXG49M3R1",
      "title": "Happy Wheels",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/76/Happy_Wheels_Logo.png",
      "playUrl": "https://totaljerkface.com/happy_wheels.tjf",
      "coi": false,
      "pad": false,
@@ -4782,7 +4782,7 @@
     {
      "id": "01M2S6FQCKDJJBEACBB6PQA00X",
      "title": "Helltaker",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Helltaker_Cover.jpg",
      "playUrl": "https://wasm.rip/files/Helltaker/helltaker.html",
      "coi": false,
      "pad": true,
@@ -4800,7 +4800,7 @@
     {
      "id": "01M5FAJZZWDWYGFNCNBVMFGB70",
      "title": "Hill Climb Racing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HillClimbRacingLogoNew.png",
      "playUrl": "https://wasm.rip/files/hcr/index.html",
      "coi": false,
      "pad": false,
@@ -5281,7 +5281,7 @@
     {
      "id": "01M67GA8MZPJNV1WFQGE894E14",
      "title": "Card Wars",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Star_Wars_Trading_Card_Game_cardback.jpg",
      "playUrl": "https://savavlad.com/cardwars/",
      "coi": false,
      "pad": false,
@@ -5431,7 +5431,7 @@
     {
      "id": "01M44503CEN5XSHT5W09SEK5M7",
      "title": "Hollow Knight",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
      "coi": false,
      "pad": true,
@@ -5552,7 +5552,7 @@
     {
      "id": "01M5Z6E7C766BWRZVVPDMG6RX4",
      "title": "Global Operations",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Global_Operations_cover.png",
      "playUrl": "https://savavlad.com/glops/",
      "coi": false,
      "pad": false,
@@ -5604,7 +5604,7 @@
     {
      "id": "01M5XSA2YMNGNG9EC208SAV385",
      "title": "Counter-Strike Surf",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/Counter-Strike_surf_egypt2_screenshot.png",
      "playUrl": "https://surfd.net/",
      "coi": false,
      "pad": false,
@@ -5674,7 +5674,7 @@
     {
      "id": "01M5W491VSJPDMJFFHCG2KH8TB",
      "title": "Fear & Hunger",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Fear_%26_Hunger.jpg",
      "playUrl": "https://gn-math.dev/?id=706",
      "coi": false,
      "pad": true,
@@ -5794,7 +5794,7 @@
     {
      "id": "01M5MDYY1PG4GVKA89PBVZNPCJ",
      "title": "Grand Theft Auto: Vice City",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://quenq.com/apps/vice-city/",
      "coi": false,
      "pad": true,
@@ -5812,7 +5812,7 @@
     {
      "id": "01M2S6FQCD98DEJNR1A64GJEM7",
      "title": "Cuphead",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
      "playUrl": "https://wasm.rip/files/cuphead/index.html",
      "coi": false,
      "pad": true,
@@ -5865,7 +5865,7 @@
     {
      "id": "01M4EMSR5ZG44BG0N8FTJDHAA1",
      "title": "Counter-Strike",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Counter-Strike_Box.jpg",
      "playUrl": "https://play-cs.com/",
      "coi": false,
      "pad": false,
@@ -5883,7 +5883,7 @@
     {
      "id": "01M4AB770YREFS2EFM8ZWVA1FF",
      "title": "Black Ops Zombies",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Cover_Art_of_Call_of_Duty%2C_Black_Ops_%E2%80%93_Zombies.png",
      "playUrl": "https://vel.gg/bsz",
      "coi": false,
      "pad": false,
@@ -5919,7 +5919,7 @@
     {
      "id": "01M2S6FQD9YE64PB0SVJQK9A5H",
      "title": "Grand Theft Auto III",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg",
      "playUrl": "https://wasm.rip/files/gta3/index.html",
      "coi": false,
      "pad": true,
@@ -5990,7 +5990,7 @@
     {
      "id": "01M3WXT98KK6T8QT8V5K3WNT4R",
      "title": "Halo: Combat Evolved",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9c/HaloCEA_boxart.png",
      "playUrl": "https://mitchellhynes.com/halo/halo.html",
      "coi": false,
      "pad": true,
@@ -6007,7 +6007,7 @@
     {
      "id": "01M43QB99Z7168318Q3B13SDEC",
      "title": "Balatro",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Balatro_cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/balatro/index.html",
      "coi": false,
      "pad": true,
@@ -6058,7 +6058,7 @@
     {
      "id": "01M43QB9A7XZ86ESQKKQR0DYYQ",
      "title": "Buckshot Roulette",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/72/Buckshot_Roulette_Cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/buckshot/index.html",
      "coi": false,
      "pad": true,
@@ -6110,7 +6110,7 @@
     {
      "id": "01M43QB99X6S6Q0DKBH7PM0VSP",
      "title": "Animal Crossing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Animal_Crossing_Coverart.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/slider/index.html",
      "coi": false,
      "pad": true,
@@ -6126,7 +6126,7 @@
     {
      "id": "01M43QB99T8SPYYM8N3JSK1E1W",
      "title": "A Difficult Game About Climbing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/A_Difficult_Game_About_Climbing_Coverart.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/gamefile/adgac.html",
      "coi": false,
      "pad": true,
@@ -6180,7 +6180,7 @@
     {
      "id": "01M4BP4FZYYRWQ3BRS3R59JTVM",
      "title": "Crash Bash",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/68/CrashBashCover.png",
      "playUrl": "https://crashbash.app/",
      "coi": false,
      "pad": true,
@@ -6198,7 +6198,7 @@
     {
      "id": "01M47576HHMHTYV8P15W6CH5KF",
      "title": "Age of Empires II",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Age_of_Empires_Coverart.jpg",
      "playUrl": "https://dos.zone/age-of-empires2/",
      "coi": false,
      "pad": false,
@@ -6234,7 +6234,7 @@
     {
      "id": "01M2S6FQDCYDENCYY2A19SCNX3",
      "title": "Clustertruck",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8d/Clustertruck.svg/500px-Clustertruck.svg.png",
      "playUrl": "https://wasm.rip/files/ClusterTruck/clustertruck.html",
      "coi": false,
      "pad": true,
@@ -6269,7 +6269,7 @@
     {
      "id": "01M3N81XY54NJVP6JZRJDB8NSW",
      "title": "1080° Snowboarding",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#1080snowboarding",
      "coi": false,
      "pad": true,
@@ -6286,7 +6286,7 @@
     {
      "id": "01M43QB99H5V33PBPMDN8PJB9F",
      "title": "20 Minutes Till Dawn",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/20_Minutes_Till_Dawn_title.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/20minutesbog/index.html",
      "coi": false,
      "pad": true,
@@ -6304,7 +6304,7 @@
     {
      "id": "01M47576H7SHZ25TKMQHBYTHAV",
      "title": "3D Pinball: Space Cadet",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7f/A_rebuilt_Terminator_2_pinball_machine_by_Wayne_Patrick_Finn_Melbourne_Australia._38.jpg",
      "playUrl": "https://dos.zone/microsoft-3d-pinball-space-cadet/",
      "coi": false,
      "pad": false,
@@ -6322,7 +6322,7 @@
     {
      "id": "01M30W4JVA91KD8ZMG32F66VMX",
      "title": "Abobo's Big Adventure",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Abobo%27s_Big_Adventure.jpg",
      "playUrl": "https://www.kongregate.com/en/games/pestoforce/abobos-big-adventure",
      "coi": false,
      "pad": false,
@@ -6340,7 +6340,7 @@
     {
      "id": "01M4GR7DNKJRP9P5TD6KZSK0YF",
      "title": "Advance Wars By Web",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a7/Advance_Wars_Coverart.jpg",
      "playUrl": "https://awbw.amarriner.com/",
      "coi": false,
      "pad": false,
@@ -6358,7 +6358,7 @@
     {
      "id": "01M3N81XY1M8CTGTSVDVYSHCBP",
      "title": "Adventure Capitalist",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/AdVenture_Capitalist_%282014_video_game%29.png",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#adventurecapitalist",
      "coi": false,
      "pad": false,
@@ -6394,7 +6394,7 @@
     {
      "id": "01M43QB99WB368V39D4AZMB1M8",
      "title": "Alien Hominid",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Alien_Hominid_cover.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/alien/index.html",
      "coi": false,
      "pad": false,
@@ -6412,7 +6412,7 @@
     {
      "id": "01M4PHXHF9XRJKB0R4BPP5J6V5",
      "title": "Amazing Alex",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Amazing_Alex_Official_Logo.png",
      "playUrl": "https://nomadic-ua.itch.io/amazing-alex",
      "coi": false,
      "pad": false,
@@ -6427,7 +6427,7 @@
     {
      "id": "01M2S6FQD8H176M4GNFJH3CFMA",
      "title": "Among Us",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
      "playUrl": "https://wasm.rip/files/amongus/index.html",
      "coi": false,
      "pad": true,
@@ -6445,7 +6445,7 @@
     {
      "id": "01M5HSZB8H4SANGYQ25PTKAF3R",
      "title": "Angry Birds 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png",
      "playUrl": "https://naotomori1.github.io/AngryBirds2Port/",
      "coi": false,
      "pad": false,
@@ -6461,7 +6461,7 @@
     {
      "id": "01M4V1D81SXJHEX9B8Q2VBRABB",
      "title": "AssaultCube",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6d/AssaultCube_logo.svg/500px-AssaultCube_logo.svg.png",
      "playUrl": "https://crishoux.com/assaultcube-web/",
      "coi": false,
      "pad": false,
@@ -6477,7 +6477,7 @@
     {
      "id": "01M5JM0K4SV4DEMT0G9N9Q1Q3P",
      "title": "Axiom Verge",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Axiom_Verge_Title.png",
      "playUrl": "https://agentcube.github.io/axiomverge-wasm",
      "coi": false,
      "pad": false,
@@ -6529,7 +6529,7 @@
     {
      "id": "01M43QB9A2Z91A7ZENQ7KJB1CB",
      "title": "Baldur's Gate 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Baldur%27s_Gate_box.PNG",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/baldurs-gate-2/index.html",
      "coi": false,
      "pad": false,
@@ -6546,7 +6546,7 @@
     {
      "id": "01M4X88D29JXMN9X9NFE8R5XD9",
      "title": "Ballance",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Ballance_Coverart.png",
      "playUrl": "https://ballance.fayaz.workers.dev/",
      "coi": false,
      "pad": true,
@@ -6580,7 +6580,7 @@
     {
      "id": "01M2S6FQC77P3SJBRHDYA5C7C2",
      "title": "Bendy and the Ink Machine",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bendy_and_the_Ink_Machine_logo.svg/1280px-Bendy_and_the_Ink_Machine_logo.svg.png",
      "playUrl": "https://wasm.rip/files/BATIM/index.html",
      "coi": false,
      "pad": true,
@@ -6598,7 +6598,7 @@
     {
      "id": "01M30H15H9Y0B5PYCHVCX36S7W",
      "title": "Beneath a Steel Sky",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/ce/Beneath_a_Steel_Sky_Coverart.png",
      "playUrl": "https://scummweb.tsilva.eu/#game-beneath-a-steel-sky",
      "coi": false,
      "pad": true,
@@ -6634,7 +6634,7 @@
     {
      "id": "01M30H15J9WYPBMFD1YYPNC5JR",
      "title": "Broken Sword 2.5: The Return of the Templars",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Broken_Sword_2.5_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-broken-sword-2-5-the-return-of-the-templars",
      "coi": false,
      "pad": true,
@@ -6670,7 +6670,7 @@
     {
      "id": "01M5MEQVMX01FKZ1HT6TWHX0ZJ",
      "title": "Burnout 3: Takedown",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Burnout_3_-_Takedown_Coverart.jpg",
      "playUrl": "https://burnout3.online/",
      "coi": false,
      "pad": true,
@@ -6704,7 +6704,7 @@
     {
      "id": "01M5BD4RVS351RK9ND2T802KBN",
      "title": "Carrion",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Carrion_%28video_game%29_Steam_storefront_header.jpg",
      "playUrl": "https://agentcube.github.io/carrion-wasm",
      "coi": false,
      "pad": false,
@@ -6740,7 +6740,7 @@
     {
      "id": "01M3YNP9ESWFT2H1S40GCCP7QR",
      "title": "Catan Universe",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
      "playUrl": "https://catanuniverse.com/en/game/",
      "coi": false,
      "pad": false,
@@ -6756,7 +6756,7 @@
     {
      "id": "01M4GSNSWRCHYG4XWJXV2FSVDP",
      "title": "Cave Story",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Cave_Story_title_screen.png",
      "playUrl": "https://midzer.de/wasm/cavestory/",
      "coi": false,
      "pad": false,
@@ -6774,7 +6774,7 @@
     {
      "id": "01M43QB9A9Q0ZEAWA0VK05SJBJ",
      "title": "Celeste",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/celeste/index.html",
      "coi": false,
      "pad": true,
@@ -6791,7 +6791,7 @@
     {
      "id": "01M2S6FQCE604DCWZZ0PS61X2J",
      "title": "Cheese Rolling",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg",
      "playUrl": "https://wasm.rip/files/cheese-rolling/index.html",
      "coi": false,
      "pad": true,
@@ -6808,7 +6808,7 @@
     {
      "id": "01M43QB9ADPMB0WP4BT4RW231G",
      "title": "Class of '09",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Class_of_%2709_logo.png",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/C09/index.html",
      "coi": false,
      "pad": true,
@@ -6843,7 +6843,7 @@
     {
      "id": "01M43QB9AEHDAA5GB0XWRYFTQ0",
      "title": "Coffee Talk",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Coffee_Talk_video_game_cover_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/coffee/index.html",
      "coi": false,
      "pad": false,
@@ -6894,7 +6894,7 @@
     {
      "id": "01M3N81XXNPRXQBWXA94N8WM65",
      "title": "Conker's Bad Fur Day",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Conkersbfdbox.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#conkersbadfurday",
      "coi": false,
      "pad": true,
@@ -6930,7 +6930,7 @@
     {
      "id": "01M2S6FQDH1CFV1758MKBPD4S6",
      "title": "Crashout Crew",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Crashout_Crew.jpg",
      "playUrl": "https://wasm.rip/files/cc/index.html",
      "coi": false,
      "pad": true,
@@ -6947,7 +6947,7 @@
     {
      "id": "01M5DTN7C35ENS1WA7ET65E3QB",
      "title": "Cricket 07",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Cricket07.png",
      "playUrl": "https://cricket07.dhaiwat.com/",
      "coi": false,
      "pad": true,
@@ -6964,7 +6964,7 @@
     {
      "id": "01M57P5XK316E2YP2EE0G40DV6",
      "title": "Crimsonland",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/Crimsonland.jpg",
      "playUrl": "https://crimson.land/play/",
      "coi": false,
      "pad": true,
@@ -6997,7 +6997,7 @@
     {
      "id": "01M5MDYY18G0C3VP7YG72ABJ1G",
      "title": "Cyberpunk 2077",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
      "playUrl": "https://cyberpunk2077.lol/",
      "coi": false,
      "pad": true,
@@ -7015,7 +7015,7 @@
     {
      "id": "01M2S6FQC4QTVFY4HW0QQG6ENR",
      "title": "Daedalian Opus",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/DaedalianOpusTitleScreen.png",
      "playUrl": "https://joyrider3774.itch.io/puzzle-land-playdate",
      "coi": false,
      "pad": true,
@@ -7031,7 +7031,7 @@
     {
      "id": "01M3BAB0GB4VKRDPXZA226JGXD",
      "title": "Daggerfall",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daggerfall_Cover_art.gif",
      "playUrl": "https://daggerfalljs.dev/",
      "coi": false,
      "pad": false,
@@ -7066,7 +7066,7 @@
     {
      "id": "01M5P15X8SY3PRM2N1XK1AC26N",
      "title": "Def Jam: Fight for NY",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
      "playUrl": "https://def-jam.online/",
      "coi": false,
      "pad": true,
@@ -7101,7 +7101,7 @@
     {
      "id": "01M30H15GV0MWZZE43G90913MN",
      "title": "Diablo",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Diablo_Coverart.png",
      "playUrl": "https://devilutionx.app/",
      "coi": false,
      "pad": true,
@@ -7155,7 +7155,7 @@
     {
      "id": "01M44503BS13G66ZM7BFNBWT1Y",
      "title": "Dome Keeper",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/55/Dome_Keeper_Cover_Art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/domekeeper/index.html",
      "coi": false,
      "pad": true,
@@ -7173,7 +7173,7 @@
     {
      "id": "01M30H15GAYTY968ZZHPJX8VW4",
      "title": "DOOM",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg",
      "playUrl": "https://dwasm.m-h.org.uk/",
      "coi": false,
      "pad": true,
@@ -7243,7 +7243,7 @@
     {
      "id": "01M30H15HZ8BHPX3T1KR9RA1HN",
      "title": "Dráscula: The Vampire Strikes Back",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Drascula_El_Vampiro_box_shot.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-drascula-the-vampire-strikes-back",
      "coi": false,
      "pad": true,
@@ -7260,7 +7260,7 @@
     {
      "id": "01M30H15HKAQCXT2HQFK7PJTDZ",
      "title": "DreamWeb",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2c/Dreamweb_cover.png",
      "playUrl": "https://scummweb.tsilva.eu/#game-dreamweb",
      "coi": false,
      "pad": true,
@@ -7278,7 +7278,7 @@
     {
      "id": "01M43EGYK2Z0B9EP1T40T8Z8A0",
      "title": "Dude, Stop",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dude%2C_Stop_cover_art.jpg",
      "playUrl": "https://wasm.rip/files/dudestop/index.html",
      "coi": false,
      "pad": false,
@@ -7296,7 +7296,7 @@
     {
      "id": "01M30H15GPM4EWZH5T8JF47FQJ",
      "title": "Duke Nukem 3D",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Duke_Nukem_3D_Coverart.png",
      "playUrl": "https://digitalcybersoft.github.io/eduke32-wasm/",
      "coi": false,
      "pad": true,
@@ -7314,7 +7314,7 @@
     {
      "id": "01M44503CB5T1W2MJBG882M8Y5",
      "title": "Endacopia",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Endacopia_Cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/endacopia/index.html",
      "coi": false,
      "pad": false,
@@ -7385,7 +7385,7 @@
     {
      "id": "01M47576GPK2GZMCFHBX1946QN",
      "title": "Fate/Stay Night",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Fate-stay_night.jpg",
      "playUrl": "https://fatestaynight.vnovel.org/",
      "coi": false,
      "pad": false,
@@ -7403,7 +7403,7 @@
     {
      "id": "01M2S6FQCRM1HSMBYA9ASWR7AP",
      "title": "FEZ",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fez_%28video_game%29_cover_art.png",
      "playUrl": "https://wasm.rip/files/FEZ/fez.html",
      "coi": false,
      "pad": true,
@@ -7439,7 +7439,7 @@
     {
      "id": "01M4YVQTQE90S38WTZ0BKXH8Q2",
      "title": "FIFA Street 2",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/FIFA_Street_2_Coverart.png",
      "playUrl": "https://fifastreet2.fun/",
      "coi": false,
      "pad": true,
@@ -7492,7 +7492,7 @@
     {
      "id": "01M4E0RMDZH5ZV4X9MM2SXTD27",
      "title": "Fire Fight",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d1/Fire_Fight_Cover.jpg",
      "playUrl": "https://tosiabunio.github.io/firefight-port/#GamePreservation",
      "coi": false,
      "pad": false,
@@ -7528,7 +7528,7 @@
     {
      "id": "01M30H15HEQCMH01AS12PV578T",
      "title": "Flight of the Amazon Queen",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a6/Flight_of_the_Amazon_Queen_box_art.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen",
      "coi": false,
      "pad": true,
@@ -7564,7 +7564,7 @@
     {
      "id": "01M5QN4SAH0W3GXZGXG87C7GR1",
      "title": "Formula One 06",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/F1_06.jpg",
      "playUrl": "https://f12006.online/",
      "coi": false,
      "pad": true,
@@ -7580,7 +7580,7 @@
     {
      "id": "01M4PNGVF7DDX68Q0ESZGRSM8P",
      "title": "Friday Night Funkin'",
-     "poster": "",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/Friday_Night_Funkin%27_logo.svg/250px-Friday_Night_Funkin%27_logo.svg.png",
      "playUrl": "https://gamaverse.com/fnf-friday-night-funkin/",
      "coi": false,
      "pad": true,
@@ -7614,7 +7614,7 @@
     {
      "id": "01M4R3TJ0J2RYT84F6HKRP11YX",
      "title": "Grand Theft Auto V",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
      "playUrl": "https://fiveplay.lol/",
      "coi": false,
      "pad": false,
@@ -7665,7 +7665,7 @@
     {
      "id": "01M4ZTRTTVV7VXERJHAZTYTGNG",
      "title": "Guitar Hero 3",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Guitarhero-cover.jpg",
      "playUrl": "https://gh3.thediaryofchris.net/index.html",
      "coi": false,
      "pad": true,
@@ -7698,7 +7698,7 @@
     {
      "id": "01M4XBZEZPQ7BYW71ZXG49M3R1",
      "title": "Happy Wheels",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/76/Happy_Wheels_Logo.png",
      "playUrl": "https://totaljerkface.com/happy_wheels.tjf",
      "coi": false,
      "pad": false,
@@ -7715,7 +7715,7 @@
     {
      "id": "01M2S6FQCKDJJBEACBB6PQA00X",
      "title": "Helltaker",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Helltaker_Cover.jpg",
      "playUrl": "https://wasm.rip/files/Helltaker/helltaker.html",
      "coi": false,
      "pad": true,
@@ -7733,7 +7733,7 @@
     {
      "id": "01M47576HY12YDR3683M7NZD98",
      "title": "Hexen II",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b1/HexenIIbox.jpg",
      "playUrl": "https://dos.zone/hexen-2-fteqw/",
      "coi": false,
      "pad": false,
@@ -7751,7 +7751,7 @@
     {
      "id": "01M5FAJZZWDWYGFNCNBVMFGB70",
      "title": "Hill Climb Racing",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HillClimbRacingLogoNew.png",
      "playUrl": "https://wasm.rip/files/hcr/index.html",
      "coi": false,
      "pad": false,
@@ -7767,7 +7767,7 @@
     {
      "id": "01M4SS1MN5ZKRAW0DYYDJXMCXA",
      "title": "Holiday Island",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7c/Holiday_Island_cover.jpg",
      "playUrl": "https://playclassic.games/games/city-building-windows-games-online/holiday-island/play/",
      "coi": false,
      "pad": false,
@@ -7783,7 +7783,7 @@
     {
      "id": "01M5DGJY8H4WPXP4RJGM55RG28",
      "title": "Homeworld",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Homeworld_%28video_game%29_box_art.jpg",
      "playUrl": "https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/",
      "coi": false,
      "pad": false,
@@ -7817,7 +7817,7 @@
     {
      "id": "01M50NZEXCC1RB3GG1TQEH688H",
      "title": "Hot Shots Golf",
-     "poster": "",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Everybody%27s_Golf_Hot_Shots_steam_header.jpg",
      "playUrl": "https://oldgames.app/games/ps1/hot-shots-golf-ps1-9226",
      "coi": false,
      "pad": true,
