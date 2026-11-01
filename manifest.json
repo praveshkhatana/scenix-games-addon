@@ -1,0 +1,18 @@
+{
+ "id": "tv.scenix.games",
+ "name": "Scenix Games",
+ "version": "1.0.0",
+ "description": "The curated Scenix game catalogue: browser ports of console titles plus a web arcade. Ships as its own repo so the app itself carries no game data.",
+ "types": [
+  "game"
+ ],
+ "resources": [
+  {
+   "name": "games",
+   "types": [
+    "game"
+   ]
+  }
+ ],
+ "catalogs": []
+}
