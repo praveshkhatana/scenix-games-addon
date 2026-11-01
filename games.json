@@ -1,4 +1,5 @@
 {
+ "official": true,
  "rows": [
   {
    "id": "highlight",
@@ -7,7 +8,7 @@
     {
      "id": "own-subway",
      "title": "Subway Surfers",
-     "poster": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=600,height=338,fit=cover,f=auto/1c920b9279c2bedec567c1b58129ae8f/subway-surfers-logo.png",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a3/Subway_Surfers_logo.svg/500px-Subway_Surfers_logo.svg.png",
      "playUrl": "https://www.miniplay.com/embed/subway-surfers",
      "coi": false,
      "pad": false,
@@ -23,7 +24,7 @@
     {
      "id": "own-mk64",
      "title": "Mario Kart 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-kart-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
      "playUrl": "https://truffled.lol/games/mk64/index.html",
      "coi": true,
      "pad": true,
@@ -75,7 +76,7 @@
     {
      "id": "01M60CWF2EFMN6GJ7ZYFPF9FXA",
      "title": "Mortal Kombat 9",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-9.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b1/Mortal_Kombat_Logo.svg/330px-Mortal_Kombat_Logo.svg.png",
      "playUrl": "https://mk9.lauta.site/",
      "coi": true,
      "pad": true,
@@ -92,7 +93,7 @@
     {
      "id": "01M60CWF1PR2W2R10SH922XT3T",
      "title": "Tekken 4",
-     "poster": "https://ported2browser.com/storage/covers/tekken-4.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken4.online/",
      "coi": false,
      "pad": true,
@@ -109,7 +110,7 @@
     {
      "id": "01M5Z6E7BXTJ6XEG8XP1AB3VYM",
      "title": "Soulcalibur 2",
-     "poster": "https://ported2browser.com/storage/covers/soulcalibur-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Soulcalibur_flyer.png",
      "playUrl": "https://soulcalibur2online.cc/",
      "coi": true,
      "pad": true,
@@ -213,7 +214,7 @@
     {
      "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
      "title": "Tekken 5",
-     "poster": "https://ported2browser.com/storage/covers/tekken-5.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken5.online/",
      "coi": false,
      "pad": true,
@@ -230,7 +231,7 @@
     {
      "id": "01M4ZTRTVENYXSAPMVX1HHCNXG",
      "title": "Tekken: Dark Resurrection",
-     "poster": "https://ported2browser.com/storage/covers/tekken-dark-resurrection.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/PSP-TekkenDarkRessurectionUSversion-FrontCover.jpg",
      "playUrl": "https://tkdr-recomp.pages.dev/",
      "coi": true,
      "pad": true,
@@ -264,7 +265,7 @@
     {
      "id": "01M5W2MP44VK31C4FGSMKXGDKX",
      "title": "Marvel vs Capcom 2",
-     "poster": "https://ported2browser.com/storage/covers/marvel-vs-capcom-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
      "playUrl": "https://marvelvscapcom2.online/",
      "coi": false,
      "pad": true,
@@ -321,7 +322,7 @@
     {
      "id": "01M60CWF2EFMN6GJ7ZYFPF9FXA",
      "title": "Mortal Kombat 9",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-9.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b1/Mortal_Kombat_Logo.svg/330px-Mortal_Kombat_Logo.svg.png",
      "playUrl": "https://mk9.lauta.site/",
      "coi": true,
      "pad": true,
@@ -338,7 +339,7 @@
     {
      "id": "01M60CWF1PR2W2R10SH922XT3T",
      "title": "Tekken 4",
-     "poster": "https://ported2browser.com/storage/covers/tekken-4.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken4.online/",
      "coi": false,
      "pad": true,
@@ -355,7 +356,7 @@
     {
      "id": "01M5Z6E7BXTJ6XEG8XP1AB3VYM",
      "title": "Soulcalibur 2",
-     "poster": "https://ported2browser.com/storage/covers/soulcalibur-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Soulcalibur_flyer.png",
      "playUrl": "https://soulcalibur2online.cc/",
      "coi": true,
      "pad": true,
@@ -372,7 +373,7 @@
     {
      "id": "01M5W2MP44VK31C4FGSMKXGDKX",
      "title": "Marvel vs Capcom 2",
-     "poster": "https://ported2browser.com/storage/covers/marvel-vs-capcom-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
      "playUrl": "https://marvelvscapcom2.online/",
      "coi": false,
      "pad": true,
@@ -510,7 +511,7 @@
     {
      "id": "01M2R5GXHZ8CAQCRGM83A2NB5C",
      "title": "Super Smash Bros. 64",
-     "poster": "https://ported2browser.com/storage/covers/super-smash-bros.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
      "playUrl": "https://smash.fun/",
      "coi": true,
      "pad": true,
@@ -528,7 +529,7 @@
     {
      "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
      "title": "Tekken 5",
-     "poster": "https://ported2browser.com/storage/covers/tekken-5.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken5.online/",
      "coi": false,
      "pad": true,
@@ -545,7 +546,7 @@
     {
      "id": "01M4ZTRTVENYXSAPMVX1HHCNXG",
      "title": "Tekken: Dark Resurrection",
-     "poster": "https://ported2browser.com/storage/covers/tekken-dark-resurrection.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/PSP-TekkenDarkRessurectionUSversion-FrontCover.jpg",
      "playUrl": "https://tkdr-recomp.pages.dev/",
      "coi": true,
      "pad": true,
@@ -562,7 +563,7 @@
     {
      "id": "01M3MWMZ8R10JB51EJR092CX27",
      "title": "TMNT (Series)",
-     "poster": "https://ported2browser.com/storage/covers/tmnt-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a0/TMNT_Box_Art.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#teenagemutantninjaturtles",
      "coi": false,
      "pad": true,
@@ -621,7 +622,7 @@
     {
      "id": "01M5W32TFX338FCD9PNGBXEP5E",
      "title": "SSX 3",
-     "poster": "https://ported2browser.com/storage/covers/ssx-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/43/SSX_3_Coverart.png",
      "playUrl": "https://ssx3.online/",
      "coi": false,
      "pad": true,
@@ -638,7 +639,7 @@
     {
      "id": "01M5W1EBMWPNGH1DEJ2DYWFF0K",
      "title": "Pro Evolution Soccer 11",
-     "poster": "https://ported2browser.com/storage/covers/pro-evolution-soccer-11.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Pro_Evolution_Soccer.jpg",
      "playUrl": "https://pes11.optijuegos.net/",
      "coi": false,
      "pad": true,
@@ -655,7 +656,7 @@
     {
      "id": "01M5V19NHCXTMXHJ0R2CT68FR1",
      "title": "TOCA Race Driver 3",
-     "poster": "https://ported2browser.com/storage/covers/toca-race-driver-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f0/TOCA_Race_Driver_3_Cover.jpg",
      "playUrl": "https://toca3.quepccomprar.com.ar/",
      "coi": false,
      "pad": true,
@@ -689,7 +690,7 @@
     {
      "id": "01M2S6FQBX7Y3VYWGF0B2XS10J",
      "title": "The Simpsons: Hit & Run",
-     "poster": "https://ported2browser.com/storage/covers/the-simpsons-hit-run.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Simpsons_Hit_and_Run_cover.png",
      "playUrl": "https://shar-wasm.cjoseph.workers.dev/",
      "coi": true,
      "pad": false,
@@ -725,7 +726,7 @@
     {
      "id": "01M44503CKESP22FADTF8K56Y2",
      "title": "Mario Kart 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-kart-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/mk64/index.html",
      "coi": true,
      "pad": true,
@@ -743,7 +744,7 @@
     {
      "id": "01M4B92X82EKAC22BJQG34P2DZ",
      "title": "Pro Evolution Soccer 6",
-     "poster": "https://ported2browser.com/storage/covers/pes-6.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PES6.jpg",
      "playUrl": "https://pes6.optijuegos.net/",
      "coi": false,
      "pad": true,
@@ -910,7 +911,7 @@
     {
      "id": "01M3VZRNH9PXCP8G20ZP80XNMP",
      "title": "LEGO Racers",
-     "poster": "https://ported2browser.com/storage/covers/lego-racers.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Lego_Racers_cover.png",
      "playUrl": "https://steponit.online/",
      "coi": false,
      "pad": true,
@@ -927,7 +928,7 @@
     {
      "id": "01M4YDH34Q0SN2HZB7YQP23DEK",
      "title": "NBA Street V3",
-     "poster": "https://ported2browser.com/storage/covers/nba-street-v3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/NBA_Street_V3_Coverart.png",
      "playUrl": "https://nbarecomp.xellrecomp.party/",
      "coi": false,
      "pad": true,
@@ -962,7 +963,7 @@
     {
      "id": "01M5E295NKPHXG31780GESVB87",
      "title": "NFL Street 2",
-     "poster": "https://ported2browser.com/storage/covers/nfl-street-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/NFL_Street.jpg",
      "playUrl": "https://nilstreet.playthecombine.com/",
      "coi": true,
      "pad": true,
@@ -1012,7 +1013,7 @@
     {
      "id": "01M47576HS9WZM0CVDC9CB7N3X",
      "title": "Road Rash",
-     "poster": "https://ported2browser.com/storage/covers/road-rash.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/RoadRashCover.jpg",
      "playUrl": "https://dos.zone/road-rash/",
      "coi": true,
      "pad": false,
@@ -1047,7 +1048,7 @@
     {
      "id": "01M5QN4S9TCSERTFQ89Q8Q6A2E",
      "title": "Rugby 08",
-     "poster": "https://ported2browser.com/storage/covers/rugby-08.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Rugby_08_Coverart.png",
      "playUrl": "https://mitchivin.github.io/rugby08/",
      "coi": false,
      "pad": true,
@@ -1063,7 +1064,7 @@
     {
      "id": "01M4RSDRCPXRTKPRT50EBRRCW5",
      "title": "Skate 3",
-     "poster": "https://ported2browser.com/storage/covers/skate-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/84/Skate-3-Boxart.jpg",
      "playUrl": "https://skate.aaddpp.lol/",
      "coi": false,
      "pad": true,
@@ -1079,7 +1080,7 @@
     {
      "id": "01M30W4JS466K75MBYKG5JSBAS",
      "title": "Sonic Robo Blast 2 Kart",
-     "poster": "https://ported2browser.com/storage/covers/sonic-robo-blast-2-kart-wasm.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
      "playUrl": "https://skyleite.github.io/Kart-Public-WASM/",
      "coi": false,
      "pad": true,
@@ -1097,7 +1098,7 @@
     {
      "id": "01M2S6FQC1R4A8FRN6MW16BH02",
      "title": "Super Mario Kart",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-kart.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG",
      "playUrl": "https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html",
      "coi": false,
      "pad": true,
@@ -1133,7 +1134,7 @@
     {
      "id": "01M5KFSM5R9THA69K3F6RXZXGG",
      "title": "Virtua Tennis 3",
-     "poster": "https://ported2browser.com/storage/covers/virtua-tennis-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/Virtua_Tennis_flyer.jpg",
      "playUrl": "https://vt3.online/",
      "coi": false,
      "pad": true,
@@ -1150,7 +1151,7 @@
     {
      "id": "01M2S6FQBMXEEV302A3KR36NV1",
      "title": "wipEout",
-     "poster": "https://ported2browser.com/storage/covers/wipeout.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/WipEoutCover.jpg",
      "playUrl": "https://phoboslab.org/wipegame/",
      "coi": false,
      "pad": true,
@@ -1205,7 +1206,7 @@
     {
      "id": "01M66QKA1GZA8TZ47783TX9BJD",
      "title": "Sonic Mania",
-     "poster": "https://ported2browser.com/storage/covers/sonic-mania.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Sonic_Mania_%28artwork%29.jpg",
      "playUrl": "https://ugbontop.github.io/Sonic-Mania-InYourBrowser/",
      "coi": false,
      "pad": false,
@@ -1221,7 +1222,7 @@
     {
      "id": "01M66QKA19WGKBPXJEFHA0HKM0",
      "title": "Super Mario Sunshine",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-sunshine.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Super_Mario_Sunshine_Box_Art.png",
      "playUrl": "https://truffled.lol/games/sms/index.html",
      "coi": true,
      "pad": true,
@@ -1255,7 +1256,7 @@
     {
      "id": "01M66FJR73XTTX269A3TD2Y4NZ",
      "title": "Super Mario Galaxy",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-galaxy.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg",
      "playUrl": "https://raw.githack.com/T4ctica1YT/SMGwebport/main/index.html",
      "coi": false,
      "pad": true,
@@ -1306,7 +1307,7 @@
     {
      "id": "01M60CWF2855T6Z5S0DX0N4B8P",
      "title": "Ion Fury",
-     "poster": "https://ported2browser.com/storage/covers/ion-fury.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Ion_Fury_logo.jpg",
      "playUrl": "https://agentcube.github.io/ion-fury-wasm/",
      "coi": false,
      "pad": true,
@@ -1392,7 +1393,7 @@
     {
      "id": "01M5XEXRA981J9P15ZM87JQDX6",
      "title": "Hotline Miami",
-     "poster": "https://ported2browser.com/storage/covers/hotline-miami.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hotline_Miami_cover.png",
      "playUrl": "https://mdecombax.github.io/hotline-miami/",
      "coi": false,
      "pad": false,
@@ -1427,7 +1428,7 @@
     {
      "id": "01M5RK3ZG2EW9K2NNENVTWKDB4",
      "title": "Resident Evil 4",
-     "poster": "https://ported2browser.com/storage/covers/resident-evil-4.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
      "playUrl": "https://residentevil4.online/",
      "coi": false,
      "pad": true,
@@ -1481,7 +1482,7 @@
     {
      "id": "01M3MS0W0NAZ2DKZHGCBR4EEP6",
      "title": "Minecraft",
-     "poster": "https://ported2browser.com/storage/covers/minecraft.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#minecraft",
      "coi": false,
      "pad": false,
@@ -1498,7 +1499,7 @@
     {
      "id": "01M2S6FQBX7Y3VYWGF0B2XS10J",
      "title": "The Simpsons: Hit & Run",
-     "poster": "https://ported2browser.com/storage/covers/the-simpsons-hit-run.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Simpsons_Hit_and_Run_cover.png",
      "playUrl": "https://shar-wasm.cjoseph.workers.dev/",
      "coi": true,
      "pad": false,
@@ -1552,7 +1553,7 @@
     {
      "id": "01M2S6FQD72E986AVX98S3G7S8",
      "title": "PEAK",
-     "poster": "https://ported2browser.com/storage/covers/peak--1.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
      "playUrl": "https://wasm.rip/files/peak/PEAK.html",
      "coi": false,
      "pad": true,
@@ -1570,7 +1571,7 @@
     {
      "id": "01M4EQCYEE9E2PW5S7A31PW2WJ",
      "title": "Mario 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png",
      "playUrl": "https://olivers.tools/play",
      "coi": true,
      "pad": true,
@@ -1639,7 +1640,7 @@
     {
      "id": "01M3MS0W03YP8X5CZWTPN3P7ND",
      "title": "Raft",
-     "poster": "https://ported2browser.com/storage/covers/raft.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Raft_cover.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#raft",
      "coi": false,
      "pad": false,
@@ -1674,7 +1675,7 @@
     {
      "id": "01M2R5GXHXJ5YDS8DRFG0D6K4X",
      "title": "Super Mario 64",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png",
      "playUrl": "https://heyitsheart.github.io/sm3das/64/",
      "coi": false,
      "pad": true,
@@ -2737,7 +2738,7 @@
     {
      "id": "01M2S6FQCYBYE0SN6HVX0NBGS8",
      "title": "Inscryption",
-     "poster": "https://ported2browser.com/storage/covers/inscryption.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Inscryption_Cover_Art.jpg",
      "playUrl": "https://wasm.rip/files/inscryption/index.html",
      "coi": false,
      "pad": true,
@@ -2755,7 +2756,7 @@
     {
      "id": "01M44503CH33AVEPAX6RB7RDDJ",
      "title": "Iron Lung",
-     "poster": "https://ported2browser.com/storage/covers/iron-lung.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ad/Iron_Lung_game_logo.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/ironlung/index.html",
      "coi": true,
      "pad": true,
@@ -2791,7 +2792,7 @@
     {
      "id": "01M3PTYKPX0HZBMAXY068TMG98",
      "title": "LEGO Island",
-     "poster": "https://ported2browser.com/storage/covers/lego-island.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lego-island.jpg",
      "playUrl": "https://isle.pizza/",
      "coi": true,
      "pad": true,
@@ -2808,7 +2809,7 @@
     {
      "id": "01M2S6FQDGDYK2CV6160883EX1",
      "title": "Lethal Company",
-     "poster": "https://ported2browser.com/storage/covers/lethal-company.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lethal_Company_Steam_cover.jpg",
      "playUrl": "https://wasm.rip/files/lethal/index.html",
      "coi": false,
      "pad": true,
@@ -2826,7 +2827,7 @@
     {
      "id": "01M2S6FQCZ53976V7SNZAQEB4C",
      "title": "Lobotomy Corporation",
-     "poster": "https://ported2browser.com/storage/covers/lobotomy-corporation.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Lobotomy_Corporation.jpg",
      "playUrl": "https://wasm.rip/files/lob-corp/index.html",
      "coi": false,
      "pad": true,
@@ -2844,7 +2845,7 @@
     {
      "id": "01M30H15HSC03WZX55JARPWART",
      "title": "Lure of the Temptress",
-     "poster": "https://ported2browser.com/storage/covers/lure-of-the-temptress.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f5/Lure_of_the_Temptress_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-lure-of-the-temptress",
      "coi": false,
      "pad": true,
@@ -2862,7 +2863,7 @@
     {
      "id": "01M3SETJRXDV4R306962KTSMR6",
      "title": "Magic: The Gathering",
-     "poster": "https://ported2browser.com/storage/covers/magic-the-gathering.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/MtG_PC_MicroProse_97.jpg",
      "playUrl": "https://shandalar.dev/",
      "coi": false,
      "pad": false,
@@ -2880,7 +2881,7 @@
     {
      "id": "01M4X88D1J2BBB4DBS1H550YSZ",
      "title": "Manic Miner",
-     "poster": "https://ported2browser.com/storage/covers/manic-miner.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Manic_miner_bugbyte.jpg",
      "playUrl": "https://mm.sarson.cz/",
      "coi": false,
      "pad": false,
@@ -2896,7 +2897,7 @@
     {
      "id": "01M30W4JVD1X1TZT2SFKR4R3RJ",
      "title": "Mari0",
-     "poster": "https://ported2browser.com/storage/covers/mari0.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mari0_%28mari-zero%29_logo.png",
      "playUrl": "https://tannerrogalsky.com/mari0/",
      "coi": false,
      "pad": false,
@@ -2932,7 +2933,7 @@
     {
      "id": "01M4Y4G7YEEZF4BX4KADC2B0SD",
      "title": "Mega Man Legends (Series)",
-     "poster": "https://ported2browser.com/storage/covers/mega-man-legends-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/MMLegendsBox.jpg",
      "playUrl": "https://oldgames.app/games/ps1/mega-man-legends-ps1-9356",
      "coi": false,
      "pad": true,
@@ -2986,7 +2987,7 @@
     {
      "id": "01M4GVCPJCE3KAEM56SNKNZ5PC",
      "title": "Messenger",
-     "poster": "https://ported2browser.com/storage/covers/messenger.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Messenger_game_cover.jpg",
      "playUrl": "https://messenger.abeto.co/",
      "coi": false,
      "pad": false,
@@ -3040,7 +3041,7 @@
     {
      "id": "01M52JPK5WVVCVAK5A2JDFYX1Q",
      "title": "Mindustry",
-     "poster": "https://ported2browser.com/storage/covers/mindustry.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mindyscreenshot2.png",
      "playUrl": "https://wasmga.me/games/mindustry",
      "coi": false,
      "pad": false,
@@ -3076,7 +3077,7 @@
     {
      "id": "01M2S6FQC9KFKA54K5M3MPRMF3",
      "title": "MiSide",
-     "poster": "https://ported2browser.com/storage/covers/miside.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/MiSideCoverArt.png",
      "playUrl": "https://wasm.rip/files/miside/miside.html",
      "coi": false,
      "pad": true,
@@ -3094,7 +3095,7 @@
     {
      "id": "01M49MAAP83JCZ40JNXBZ3VMX3",
      "title": "Monkey Island (Series)",
-     "poster": "https://ported2browser.com/storage/covers/monkey-island-series.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Monkey_Island_Logo.svg/960px-Monkey_Island_Logo.svg.png",
      "playUrl": "https://www.bestoldgames.net/secret-of-monkey-island/play",
      "coi": false,
      "pad": false,
@@ -3128,7 +3129,7 @@
     {
      "id": "01M4EPKNJT2PQGN083WTYHHW37",
      "title": "MU Online",
-     "poster": "https://ported2browser.com/storage/covers/mu-online.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/MU_Online_logo.jpg",
      "playUrl": "https://muveyra.com/",
      "coi": true,
      "pad": false,
@@ -3145,7 +3146,7 @@
     {
      "id": "01M44503CPH5QG2KBKM4NJPRR3",
      "title": "Needy Streamer Overload",
-     "poster": "https://ported2browser.com/storage/covers/needy-streamer-overload.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Needy_Streamer_Overload_banner.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/nso/index.html",
      "coi": true,
      "pad": false,
@@ -3163,7 +3164,7 @@
     {
      "id": "01M30H15J2M05S4CZPXW2NZHP5",
      "title": "Nippon Safes Inc.",
-     "poster": "https://ported2browser.com/storage/covers/nippon-safes-inc.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Nippon_Safes_Inc_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-nippon-safes-inc",
      "coi": false,
      "pad": true,
@@ -3198,7 +3199,7 @@
     {
      "id": "01M3MWMZ8CEFS33K2AAR0NEMP8",
      "title": "Ogre Battle 64",
-     "poster": "https://ported2browser.com/storage/covers/ogre-battle-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/OgreBattle64.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#ogrebattle64personoflordlycaliber",
      "coi": false,
      "pad": true,
@@ -3216,7 +3217,7 @@
     {
      "id": "01M44503CR5J15SBB54ZV82RGM",
      "title": "OMORI",
-     "poster": "https://ported2browser.com/storage/covers/omori.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Omori_cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/gamefile/OMORI.html",
      "coi": true,
      "pad": true,
@@ -3234,7 +3235,7 @@
     {
      "id": "01M2S6FQCHQ7Y68BZWPNZEZZ74",
      "title": "OneShot: World Machine Edition",
-     "poster": "https://ported2browser.com/storage/covers/oneshot-world-machine-edition.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/OneShot_cover_art.png",
      "playUrl": "https://wasm.rip/files/oneshot-wme/index.html",
      "coi": false,
      "pad": true,
@@ -3252,7 +3253,7 @@
     {
      "id": "01M47576HWYAKRNQJYJF8J3CR2",
      "title": "OpenTTD",
-     "poster": "https://ported2browser.com/storage/covers/openttd.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Openttdlogo.svg/330px-Openttdlogo.svg.png",
      "playUrl": "https://dos.zone/open-ttd/",
      "coi": true,
      "pad": false,
@@ -3270,7 +3271,7 @@
     {
      "id": "01M3MWMZ81PJPHEEDDPMMVMPRW",
      "title": "Paper Mario",
-     "poster": "https://ported2browser.com/storage/covers/paper-mario.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Papermario.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#papermario",
      "coi": false,
      "pad": true,
@@ -3288,7 +3289,7 @@
     {
      "id": "01M3MWMZ8NCY50K8VECYX227MV",
      "title": "Phantasmagoria 1 & 2",
-     "poster": "https://ported2browser.com/storage/covers/phantasmagoria.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sierra-Phantasmagoria.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#phantasmogaria1",
      "coi": false,
      "pad": false,
@@ -3306,7 +3307,7 @@
     {
      "id": "01M2R5GXHSPB0YQHRRKTEKNNJT",
      "title": "Phantasy Star Online",
-     "poster": "https://ported2browser.com/storage/covers/phantasy-star-online.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d3/Phantasy_Star_Online_cover_art_jp.png",
      "playUrl": "https://psoreborn.com/",
      "coi": false,
      "pad": true,
@@ -3324,7 +3325,7 @@
     {
      "id": "01M44503CT3BM9BZR2SBM325JP",
      "title": "Pikuniku",
-     "poster": "https://ported2browser.com/storage/covers/pikuniku.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/pikubog/index.html",
      "coi": true,
      "pad": true,
@@ -3342,7 +3343,7 @@
     {
      "id": "01M44503CW15J1K2B0RS51AB66",
      "title": "Pizza Tower",
-     "poster": "https://ported2browser.com/storage/covers/pizza-tower.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/Pizza_Tower_Promo_Art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/NoiseUpdate/index.html",
      "coi": true,
      "pad": true,
@@ -3450,7 +3451,7 @@
     {
      "id": "01M3MWMZ7P9EYYQTVJ47VFN3GA",
      "title": "Quest 64",
-     "poster": "https://ported2browser.com/storage/covers/quest-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/Quest64_big.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#quest64",
      "coi": false,
      "pad": true,
@@ -3468,7 +3469,7 @@
     {
      "id": "01M4RJBE263X4B9R1TCS1NS8CN",
      "title": "R.E.P.O.",
-     "poster": "https://ported2browser.com/storage/covers/repo.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/12/R.E.P.O._cover.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/repo/index.html",
      "coi": true,
      "pad": false,
@@ -3485,7 +3486,7 @@
     {
      "id": "01M2S6FQCV3H4MXRSMXAGHT0MY",
      "title": "Ravenfield",
-     "poster": "https://ported2browser.com/storage/covers/ravenfield.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Ravenfield_Steam_Cover.jpg",
      "playUrl": "https://wasm.rip/files/ravenfield/index.html",
      "coi": false,
      "pad": true,
@@ -3503,7 +3504,7 @@
     {
      "id": "01M3MWMZ8YPAR585J4R2W502Q2",
      "title": "Rayman (Series)",
-     "poster": "https://ported2browser.com/storage/covers/rayman-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Rayman_1_cover.png",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#rayman1",
      "coi": false,
      "pad": true,
@@ -3575,7 +3576,7 @@
     {
      "id": "01M2S6FQDBXGX7TW1YXYNT2B0D",
      "title": "SCP: Containment Breach",
-     "poster": "https://ported2browser.com/storage/covers/scp-containment-breach.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/5/54/SCP_-_Containment_Breach.jpg",
      "playUrl": "https://wasm.rip/files/scp/index.html",
      "coi": false,
      "pad": true,
@@ -3593,7 +3594,7 @@
     {
      "id": "01M2S6FQBWZY7Q3W86W4BRC5H4",
      "title": "Serial Experiments Lain",
-     "poster": "https://ported2browser.com/storage/covers/serial-experiments-lain.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Serial_Experiments_Lain_%28video_game%29.jpg",
      "playUrl": "https://3d.laingame.net/",
      "coi": false,
      "pad": false,
@@ -3610,7 +3611,7 @@
     {
      "id": "01M5QN4SA8R8HEKVF3B0PY80X1",
      "title": "Slime Rancher",
-     "poster": "https://ported2browser.com/storage/covers/slime-rancher.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Slime_Rancher_cover_art.png",
      "playUrl": "https://gn-math.dev/?id=591",
      "coi": false,
      "pad": true,
@@ -3628,7 +3629,7 @@
     {
      "id": "01M2S6FQBYV70DQHP3D070VCQP",
      "title": "Sonic 4: Episode I",
-     "poster": "https://ported2browser.com/storage/covers/sonic-the-hedgehog-4-episode-i.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/S4%2CEP1_boxart.png",
      "playUrl": "https://wamwoowam.co.uk/sonic4/",
      "coi": false,
      "pad": true,
@@ -3646,7 +3647,7 @@
     {
      "id": "01M2S6FQBRQ3SZ0VT920RD409Q",
      "title": "Sonic CD",
-     "poster": "https://ported2browser.com/storage/covers/sonic-cd.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sonic_CD_North_American_cover_art.jpg",
      "playUrl": "https://tws2401.github.io/Sonic-CD-WASM/",
      "coi": false,
      "pad": true,
@@ -3681,7 +3682,7 @@
     {
      "id": "01M2S6FQBT0S61Q39CJSQ6CR4M",
      "title": "Sonic the Hedgehog",
-     "poster": "https://ported2browser.com/storage/covers/sonic-the-hedgehog.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/1280px-Sonic_The_Hedgehog.svg.png",
      "playUrl": "https://vinmannie.github.io/Sonic-1-WASM/",
      "coi": false,
      "pad": true,
@@ -3735,7 +3736,7 @@
     {
      "id": "01M2S6FQCMXDKZVKZTF859YQPV",
      "title": "Stardew Valley",
-     "poster": "https://ported2browser.com/storage/covers/stardew-valley.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
      "playUrl": "https://wasm.rip/files/stardewvalley/index.html",
      "coi": false,
      "pad": true,
@@ -3789,7 +3790,7 @@
     {
      "id": "01M2S6FQC0FYKN1KMBD4GB2KQ3",
      "title": "Super Mario Bros.",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-bros.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
      "playUrl": "https://supermarioplay.com/",
      "coi": false,
      "pad": false,
@@ -3806,7 +3807,7 @@
     {
      "id": "01M2S6FQC3E3V9C2ZYZ25VNJST",
      "title": "Super Mario Land",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-land.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
      "playUrl": "https://badspot.us/Mario-Land-Fun.html",
      "coi": false,
      "pad": true,
@@ -3842,7 +3843,7 @@
     {
      "id": "01M2S6FQBQMZMNGT0BQ7WQED36",
      "title": "Super Monkey Ball",
-     "poster": "https://ported2browser.com/storage/covers/super-monkey-ball.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/96/Super_Monkey_Ball_Coverart.png",
      "playUrl": "https://monkeyball-online.pages.dev/",
      "coi": false,
      "pad": true,
@@ -3860,7 +3861,7 @@
     {
      "id": "01M2R5GXHZ8CAQCRGM83A2NB5C",
      "title": "Super Smash Bros. 64",
-     "poster": "https://ported2browser.com/storage/covers/super-smash-bros.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
      "playUrl": "https://smash.fun/",
      "coi": true,
      "pad": true,
@@ -3932,7 +3933,7 @@
     {
      "id": "01M4SGSKVNXC4T605S1WMXEFGD",
      "title": "Terraria",
-     "poster": "https://ported2browser.com/storage/covers/terraria.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg",
      "playUrl": "https://gn-math.dev/?id=669",
      "coi": false,
      "pad": true,
@@ -3984,7 +3985,7 @@
     {
      "id": "01M2R5GXHWEX5X80W7B86RC6CQ",
      "title": "Tomb Raider",
-     "poster": "https://ported2browser.com/storage/covers/tomb-raider.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tomb_Raider_Logo_2022.png",
      "playUrl": "http://xproger.info/projects/OpenLara/",
      "coi": false,
      "pad": true,
@@ -4002,7 +4003,7 @@
     {
      "id": "01M2S6FQD4B4J0TQ8PZ1VER0W7",
      "title": "Trombone Champ",
-     "poster": "https://ported2browser.com/storage/covers/trombone-champ.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Steam_Storefront_cover_art_for_Trombone_Champ.jpg",
      "playUrl": "https://wasm.rip/files/tchamp/index.html",
      "coi": false,
      "pad": true,
@@ -4020,7 +4021,7 @@
     {
      "id": "01M30H15F7NART8S5DQW64KKB6",
      "title": "Tsukihime",
-     "poster": "https://ported2browser.com/storage/covers/tsukihime.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Tsukihime.jpg",
      "playUrl": "https://tsukiweb.holofield.fr/",
      "coi": false,
      "pad": true,
@@ -4038,7 +4039,7 @@
     {
      "id": "01M30W4JV6KMTDXTVYDAFCKKMJ",
      "title": "Undertale Yellow",
-     "poster": "https://ported2browser.com/storage/covers/undertale-yellow.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Undertale_Yellow.png",
      "playUrl": "https://www.dubdoo.com/class/undertale-yellow",
      "coi": false,
      "pad": true,
@@ -4056,7 +4057,7 @@
     {
      "id": "01M44503DP1XDD5Z0GD066BXD3",
      "title": "Vampire Survivors",
-     "poster": "https://ported2browser.com/storage/covers/vampire-survivors.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Vampire_Survivors_key_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/vampire/index.html",
      "coi": true,
      "pad": true,
@@ -4092,7 +4093,7 @@
     {
      "id": "01M2S6FQD2C6DZPZRJPBW5M91M",
      "title": "while True: learn()",
-     "poster": "https://ported2browser.com/storage/covers/while-true-learn.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Whiletruelearntitlecard.jpg",
      "playUrl": "https://wasm.rip/files/wtl/index.html",
      "coi": false,
      "pad": true,
@@ -4128,7 +4129,7 @@
     {
      "id": "01M3T7CMKA7MPFBC5M2C3JEV10",
      "title": "Xenosaga Pied Piper",
-     "poster": "https://ported2browser.com/storage/covers/xenosaga-pied-piper.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Xenosaga_Pied_Piper_logo.jpg",
      "playUrl": "https://cyclonefox.itch.io/xenosaga-pied-piper",
      "coi": false,
      "pad": true,
@@ -4215,7 +4216,7 @@
     {
      "id": "01M40ZXWEHRG2YK2EXSTZWC45W",
      "title": "Zoombinis",
-     "poster": "https://ported2browser.com/storage/covers/zoombinis.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Zoombinis_Cover.jpg",
      "playUrl": "https://zoombinis.online/",
      "coi": false,
      "pad": false,
@@ -4329,7 +4330,7 @@
     {
      "id": "01M44503CKESP22FADTF8K56Y2",
      "title": "Mario Kart 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-kart-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/mk64/index.html",
      "coi": true,
      "pad": true,
@@ -4347,7 +4348,7 @@
     {
      "id": "01M4EP297RM31YD70WXZQ55W12",
      "title": "Windows 98",
-     "poster": "https://ported2browser.com/storage/covers/windows-98.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
      "playUrl": "https://berrry.wine/",
      "coi": false,
      "pad": false,
@@ -4833,7 +4834,7 @@
     {
      "id": "01M2S6FQCYBYE0SN6HVX0NBGS8",
      "title": "Inscryption",
-     "poster": "https://ported2browser.com/storage/covers/inscryption.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Inscryption_Cover_Art.jpg",
      "playUrl": "https://wasm.rip/files/inscryption/index.html",
      "coi": false,
      "pad": true,
@@ -4869,7 +4870,7 @@
     {
      "id": "01M3VZRNH9PXCP8G20ZP80XNMP",
      "title": "LEGO Racers",
-     "poster": "https://ported2browser.com/storage/covers/lego-racers.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Lego_Racers_cover.png",
      "playUrl": "https://steponit.online/",
      "coi": false,
      "pad": true,
@@ -4886,7 +4887,7 @@
     {
      "id": "01M30H15HSC03WZX55JARPWART",
      "title": "Lure of the Temptress",
-     "poster": "https://ported2browser.com/storage/covers/lure-of-the-temptress.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f5/Lure_of_the_Temptress_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-lure-of-the-temptress",
      "coi": false,
      "pad": true,
@@ -4904,7 +4905,7 @@
     {
      "id": "01M4X88D1J2BBB4DBS1H550YSZ",
      "title": "Manic Miner",
-     "poster": "https://ported2browser.com/storage/covers/manic-miner.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Manic_miner_bugbyte.jpg",
      "playUrl": "https://mm.sarson.cz/",
      "coi": false,
      "pad": false,
@@ -4920,7 +4921,7 @@
     {
      "id": "01M5JF8SAFNK9KZ3YZ45DJCB5G",
      "title": "Metal Slug (Series)",
-     "poster": "https://ported2browser.com/storage/covers/metal-slug-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/MetalSlugLogo.png",
      "playUrl": "https://wasmarcade.com/retro-games/metal-slug",
      "coi": true,
      "pad": true,
@@ -4938,7 +4939,7 @@
     {
      "id": "01M49MAAP83JCZ40JNXBZ3VMX3",
      "title": "Monkey Island (Series)",
-     "poster": "https://ported2browser.com/storage/covers/monkey-island-series.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Monkey_Island_Logo.svg/960px-Monkey_Island_Logo.svg.png",
      "playUrl": "https://www.bestoldgames.net/secret-of-monkey-island/play",
      "coi": false,
      "pad": false,
@@ -4956,7 +4957,7 @@
     {
      "id": "01M4YDH34Q0SN2HZB7YQP23DEK",
      "title": "NBA Street V3",
-     "poster": "https://ported2browser.com/storage/covers/nba-street-v3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/NBA_Street_V3_Coverart.png",
      "playUrl": "https://nbarecomp.xellrecomp.party/",
      "coi": false,
      "pad": true,
@@ -4989,7 +4990,7 @@
     {
      "id": "01M5E295NKPHXG31780GESVB87",
      "title": "NFL Street 2",
-     "poster": "https://ported2browser.com/storage/covers/nfl-street-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/NFL_Street.jpg",
      "playUrl": "https://nilstreet.playthecombine.com/",
      "coi": true,
      "pad": true,
@@ -5006,7 +5007,7 @@
     {
      "id": "01M2S6FQCHQ7Y68BZWPNZEZZ74",
      "title": "OneShot: World Machine Edition",
-     "poster": "https://ported2browser.com/storage/covers/oneshot-world-machine-edition.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/OneShot_cover_art.png",
      "playUrl": "https://wasm.rip/files/oneshot-wme/index.html",
      "coi": false,
      "pad": true,
@@ -5024,7 +5025,7 @@
     {
      "id": "01M44503CT3BM9BZR2SBM325JP",
      "title": "Pikuniku",
-     "poster": "https://ported2browser.com/storage/covers/pikuniku.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/pikubog/index.html",
      "coi": true,
      "pad": true,
@@ -5042,7 +5043,7 @@
     {
      "id": "01M2S6FQBYV70DQHP3D070VCQP",
      "title": "Sonic 4: Episode I",
-     "poster": "https://ported2browser.com/storage/covers/sonic-the-hedgehog-4-episode-i.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/S4%2CEP1_boxart.png",
      "playUrl": "https://wamwoowam.co.uk/sonic4/",
      "coi": false,
      "pad": true,
@@ -5060,7 +5061,7 @@
     {
      "id": "01M30W4JS466K75MBYKG5JSBAS",
      "title": "Sonic Robo Blast 2 Kart",
-     "poster": "https://ported2browser.com/storage/covers/sonic-robo-blast-2-kart-wasm.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
      "playUrl": "https://skyleite.github.io/Kart-Public-WASM/",
      "coi": false,
      "pad": true,
@@ -5078,7 +5079,7 @@
     {
      "id": "01M2S6FQC1R4A8FRN6MW16BH02",
      "title": "Super Mario Kart",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-kart.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG",
      "playUrl": "https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html",
      "coi": false,
      "pad": true,
@@ -5096,7 +5097,7 @@
     {
      "id": "01M2S6FQBQMZMNGT0BQ7WQED36",
      "title": "Super Monkey Ball",
-     "poster": "https://ported2browser.com/storage/covers/super-monkey-ball.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/96/Super_Monkey_Ball_Coverart.png",
      "playUrl": "https://monkeyball-online.pages.dev/",
      "coi": false,
      "pad": true,
@@ -5114,7 +5115,7 @@
     {
      "id": "01M2S6FQC6G72XA715R2WM6351",
      "title": "Taiko no Tatsujin",
-     "poster": "https://ported2browser.com/storage/covers/taiko-web-cover.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a8/Taiko_no_Tatsujin_2021_EN_logo.png",
      "playUrl": "https://cjdgrevival.com/",
      "coi": false,
      "pad": true,
@@ -5130,7 +5131,7 @@
     {
      "id": "01M47576J2SJ3A802WT1Q9YTZC",
      "title": "The Lost Vikings",
-     "poster": "https://ported2browser.com/storage/covers/lost-vikings.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/The_Lost_Vikings_SNES_cover.jpg",
      "playUrl": "https://dos.zone/the-lost-vikings-1993/",
      "coi": true,
      "pad": false,
@@ -5166,7 +5167,7 @@
     {
      "id": "01M2R5GXHWEX5X80W7B86RC6CQ",
      "title": "Tomb Raider",
-     "poster": "https://ported2browser.com/storage/covers/tomb-raider.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tomb_Raider_Logo_2022.png",
      "playUrl": "http://xproger.info/projects/OpenLara/",
      "coi": false,
      "pad": true,
@@ -5184,7 +5185,7 @@
     {
      "id": "01M44503DP1XDD5Z0GD066BXD3",
      "title": "Vampire Survivors",
-     "poster": "https://ported2browser.com/storage/covers/vampire-survivors.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Vampire_Survivors_key_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/vampire/index.html",
      "coi": true,
      "pad": true,
@@ -5220,7 +5221,7 @@
     {
      "id": "01M2S6FQD2C6DZPZRJPBW5M91M",
      "title": "while True: learn()",
-     "poster": "https://ported2browser.com/storage/covers/while-true-learn.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Whiletruelearntitlecard.jpg",
      "playUrl": "https://wasm.rip/files/wtl/index.html",
      "coi": false,
      "pad": true,
@@ -5256,7 +5257,7 @@
     {
      "id": "01M40ZXWEHRG2YK2EXSTZWC45W",
      "title": "Zoombinis",
-     "poster": "https://ported2browser.com/storage/covers/zoombinis.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Zoombinis_Cover.jpg",
      "playUrl": "https://zoombinis.online/",
      "coi": false,
      "pad": false,
@@ -5312,7 +5313,7 @@
     {
      "id": "01M66QKA1Q6N871RHNPSKX8BB8",
      "title": "Unreal (Series)",
-     "poster": "https://ported2browser.com/storage/covers/unreal-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/Unreallogo.PNG",
      "playUrl": "https://unrealcollection.games/",
      "coi": true,
      "pad": true,
@@ -5330,7 +5331,7 @@
     {
      "id": "01M66QKA1GZA8TZ47783TX9BJD",
      "title": "Sonic Mania",
-     "poster": "https://ported2browser.com/storage/covers/sonic-mania.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Sonic_Mania_%28artwork%29.jpg",
      "playUrl": "https://ugbontop.github.io/Sonic-Mania-InYourBrowser/",
      "coi": false,
      "pad": false,
@@ -5346,7 +5347,7 @@
     {
      "id": "01M66QKA19WGKBPXJEFHA0HKM0",
      "title": "Super Mario Sunshine",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-sunshine.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Super_Mario_Sunshine_Box_Art.png",
      "playUrl": "https://truffled.lol/games/sms/index.html",
      "coi": true,
      "pad": true,
@@ -5380,7 +5381,7 @@
     {
      "id": "01M66FJR73XTTX269A3TD2Y4NZ",
      "title": "Super Mario Galaxy",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-galaxy.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg",
      "playUrl": "https://raw.githack.com/T4ctica1YT/SMGwebport/main/index.html",
      "coi": false,
      "pad": true,
@@ -5466,7 +5467,7 @@
     {
      "id": "01M60CWF2EFMN6GJ7ZYFPF9FXA",
      "title": "Mortal Kombat 9",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-9.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b1/Mortal_Kombat_Logo.svg/330px-Mortal_Kombat_Logo.svg.png",
      "playUrl": "https://mk9.lauta.site/",
      "coi": true,
      "pad": true,
@@ -5483,7 +5484,7 @@
     {
      "id": "01M60CWF2855T6Z5S0DX0N4B8P",
      "title": "Ion Fury",
-     "poster": "https://ported2browser.com/storage/covers/ion-fury.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Ion_Fury_logo.jpg",
      "playUrl": "https://agentcube.github.io/ion-fury-wasm/",
      "coi": false,
      "pad": true,
@@ -5500,7 +5501,7 @@
     {
      "id": "01M60CWF1PR2W2R10SH922XT3T",
      "title": "Tekken 4",
-     "poster": "https://ported2browser.com/storage/covers/tekken-4.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken4.online/",
      "coi": false,
      "pad": true,
@@ -5568,7 +5569,7 @@
     {
      "id": "01M5Z6E7BXTJ6XEG8XP1AB3VYM",
      "title": "Soulcalibur 2",
-     "poster": "https://ported2browser.com/storage/covers/soulcalibur-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Soulcalibur_flyer.png",
      "playUrl": "https://soulcalibur2online.cc/",
      "coi": true,
      "pad": true,
@@ -5638,7 +5639,7 @@
     {
      "id": "01M5XEXRA981J9P15ZM87JQDX6",
      "title": "Hotline Miami",
-     "poster": "https://ported2browser.com/storage/covers/hotline-miami.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hotline_Miami_cover.png",
      "playUrl": "https://mdecombax.github.io/hotline-miami/",
      "coi": false,
      "pad": false,
@@ -5691,7 +5692,7 @@
     {
      "id": "01M5W32TFX338FCD9PNGBXEP5E",
      "title": "SSX 3",
-     "poster": "https://ported2browser.com/storage/covers/ssx-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/43/SSX_3_Coverart.png",
      "playUrl": "https://ssx3.online/",
      "coi": false,
      "pad": true,
@@ -5708,7 +5709,7 @@
     {
      "id": "01M5W2MP44VK31C4FGSMKXGDKX",
      "title": "Marvel vs Capcom 2",
-     "poster": "https://ported2browser.com/storage/covers/marvel-vs-capcom-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
      "playUrl": "https://marvelvscapcom2.online/",
      "coi": false,
      "pad": true,
@@ -5725,7 +5726,7 @@
     {
      "id": "01M5W1EBMWPNGH1DEJ2DYWFF0K",
      "title": "Pro Evolution Soccer 11",
-     "poster": "https://ported2browser.com/storage/covers/pro-evolution-soccer-11.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Pro_Evolution_Soccer.jpg",
      "playUrl": "https://pes11.optijuegos.net/",
      "coi": false,
      "pad": true,
@@ -5742,7 +5743,7 @@
     {
      "id": "01M5V19NHCXTMXHJ0R2CT68FR1",
      "title": "TOCA Race Driver 3",
-     "poster": "https://ported2browser.com/storage/covers/toca-race-driver-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f0/TOCA_Race_Driver_3_Cover.jpg",
      "playUrl": "https://toca3.quepccomprar.com.ar/",
      "coi": false,
      "pad": true,
@@ -5775,7 +5776,7 @@
     {
      "id": "01M5RK3ZG2EW9K2NNENVTWKDB4",
      "title": "Resident Evil 4",
-     "poster": "https://ported2browser.com/storage/covers/resident-evil-4.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
      "playUrl": "https://residentevil4.online/",
      "coi": false,
      "pad": true,
@@ -5829,7 +5830,7 @@
     {
      "id": "01M3MS0W0NAZ2DKZHGCBR4EEP6",
      "title": "Minecraft",
-     "poster": "https://ported2browser.com/storage/covers/minecraft.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#minecraft",
      "coi": false,
      "pad": false,
@@ -5846,7 +5847,7 @@
     {
      "id": "01M2S6FQBX7Y3VYWGF0B2XS10J",
      "title": "The Simpsons: Hit & Run",
-     "poster": "https://ported2browser.com/storage/covers/the-simpsons-hit-run.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Simpsons_Hit_and_Run_cover.png",
      "playUrl": "https://shar-wasm.cjoseph.workers.dev/",
      "coi": true,
      "pad": false,
@@ -5936,7 +5937,7 @@
     {
      "id": "01M44503CKESP22FADTF8K56Y2",
      "title": "Mario Kart 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-kart-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/mk64/index.html",
      "coi": true,
      "pad": true,
@@ -5954,7 +5955,7 @@
     {
      "id": "01M2S6FQD72E986AVX98S3G7S8",
      "title": "PEAK",
-     "poster": "https://ported2browser.com/storage/covers/peak--1.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
      "playUrl": "https://wasm.rip/files/peak/PEAK.html",
      "coi": false,
      "pad": true,
@@ -5972,7 +5973,7 @@
     {
      "id": "01M4EQCYEE9E2PW5S7A31PW2WJ",
      "title": "Mario 64",
-     "poster": "https://ported2browser.com/storage/covers/mario-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png",
      "playUrl": "https://olivers.tools/play",
      "coi": true,
      "pad": true,
@@ -6041,7 +6042,7 @@
     {
      "id": "01M4B92X82EKAC22BJQG34P2DZ",
      "title": "Pro Evolution Soccer 6",
-     "poster": "https://ported2browser.com/storage/covers/pes-6.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PES6.jpg",
      "playUrl": "https://pes6.optijuegos.net/",
      "coi": false,
      "pad": true,
@@ -6074,7 +6075,7 @@
     {
      "id": "01M3MS0W03YP8X5CZWTPN3P7ND",
      "title": "Raft",
-     "poster": "https://ported2browser.com/storage/covers/raft.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/Raft_cover.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#raft",
      "coi": false,
      "pad": false,
@@ -6091,7 +6092,7 @@
     {
      "id": "01M4EP297RM31YD70WXZQ55W12",
      "title": "Windows 98",
-     "poster": "https://ported2browser.com/storage/covers/windows-98.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
      "playUrl": "https://berrry.wine/",
      "coi": false,
      "pad": false,
@@ -6143,7 +6144,7 @@
     {
      "id": "01M2R5GXHXJ5YDS8DRFG0D6K4X",
      "title": "Super Mario 64",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Super_Mario_64.png",
      "playUrl": "https://heyitsheart.github.io/sm3das/64/",
      "coi": false,
      "pad": true,
@@ -6250,7 +6251,7 @@
     {
      "id": "01M2S6FQD35SJE11SQYVNNW95V",
      "title": "Plague Inc.",
-     "poster": "https://ported2browser.com/storage/covers/plague-inc.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/Plague_Inc._app_icon.png",
      "playUrl": "https://wasm.rip/files/plauge/index.html",
      "coi": false,
      "pad": true,
@@ -7866,7 +7867,7 @@
     {
      "id": "01M2S6FQCYBYE0SN6HVX0NBGS8",
      "title": "Inscryption",
-     "poster": "https://ported2browser.com/storage/covers/inscryption.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Inscryption_Cover_Art.jpg",
      "playUrl": "https://wasm.rip/files/inscryption/index.html",
      "coi": false,
      "pad": true,
@@ -7884,7 +7885,7 @@
     {
      "id": "01M44503CH33AVEPAX6RB7RDDJ",
      "title": "Iron Lung",
-     "poster": "https://ported2browser.com/storage/covers/iron-lung.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ad/Iron_Lung_game_logo.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/ironlung/index.html",
      "coi": true,
      "pad": true,
@@ -7902,7 +7903,7 @@
     {
      "id": "01M57PJQDGATHPVD96P55YK1P9",
      "title": "Kerbal Space Program",
-     "poster": "https://ported2browser.com/storage/covers/kerbal-space-program.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Kerbal_Space_Program_2_Early_Access_Poster.jpg",
      "playUrl": "https://ksp.ishotupa.school/ksp/",
      "coi": false,
      "pad": false,
@@ -7937,7 +7938,7 @@
     {
      "id": "01M3PTYKPX0HZBMAXY068TMG98",
      "title": "LEGO Island",
-     "poster": "https://ported2browser.com/storage/covers/lego-island.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lego-island.jpg",
      "playUrl": "https://isle.pizza/",
      "coi": true,
      "pad": true,
@@ -7954,7 +7955,7 @@
     {
      "id": "01M3VZRNH9PXCP8G20ZP80XNMP",
      "title": "LEGO Racers",
-     "poster": "https://ported2browser.com/storage/covers/lego-racers.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Lego_Racers_cover.png",
      "playUrl": "https://steponit.online/",
      "coi": false,
      "pad": true,
@@ -7971,7 +7972,7 @@
     {
      "id": "01M2S6FQDGDYK2CV6160883EX1",
      "title": "Lethal Company",
-     "poster": "https://ported2browser.com/storage/covers/lethal-company.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lethal_Company_Steam_cover.jpg",
      "playUrl": "https://wasm.rip/files/lethal/index.html",
      "coi": false,
      "pad": true,
@@ -8006,7 +8007,7 @@
     {
      "id": "01M2S6FQCZ53976V7SNZAQEB4C",
      "title": "Lobotomy Corporation",
-     "poster": "https://ported2browser.com/storage/covers/lobotomy-corporation.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Lobotomy_Corporation.jpg",
      "playUrl": "https://wasm.rip/files/lob-corp/index.html",
      "coi": false,
      "pad": true,
@@ -8024,7 +8025,7 @@
     {
      "id": "01M30H15HSC03WZX55JARPWART",
      "title": "Lure of the Temptress",
-     "poster": "https://ported2browser.com/storage/covers/lure-of-the-temptress.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/f5/Lure_of_the_Temptress_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-lure-of-the-temptress",
      "coi": false,
      "pad": true,
@@ -8042,7 +8043,7 @@
     {
      "id": "01M3SETJRXDV4R306962KTSMR6",
      "title": "Magic: The Gathering",
-     "poster": "https://ported2browser.com/storage/covers/magic-the-gathering.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/MtG_PC_MicroProse_97.jpg",
      "playUrl": "https://shandalar.dev/",
      "coi": false,
      "pad": false,
@@ -8060,7 +8061,7 @@
     {
      "id": "01M4X88D1J2BBB4DBS1H550YSZ",
      "title": "Manic Miner",
-     "poster": "https://ported2browser.com/storage/covers/manic-miner.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Manic_miner_bugbyte.jpg",
      "playUrl": "https://mm.sarson.cz/",
      "coi": false,
      "pad": false,
@@ -8076,7 +8077,7 @@
     {
      "id": "01M30W4JVD1X1TZT2SFKR4R3RJ",
      "title": "Mari0",
-     "poster": "https://ported2browser.com/storage/covers/mari0.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mari0_%28mari-zero%29_logo.png",
      "playUrl": "https://tannerrogalsky.com/mari0/",
      "coi": false,
      "pad": false,
@@ -8128,7 +8129,7 @@
     {
      "id": "01M4Y4G7YEEZF4BX4KADC2B0SD",
      "title": "Mega Man Legends (Series)",
-     "poster": "https://ported2browser.com/storage/covers/mega-man-legends-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/MMLegendsBox.jpg",
      "playUrl": "https://oldgames.app/games/ps1/mega-man-legends-ps1-9356",
      "coi": false,
      "pad": true,
@@ -8182,7 +8183,7 @@
     {
      "id": "01M4GVCPJCE3KAEM56SNKNZ5PC",
      "title": "Messenger",
-     "poster": "https://ported2browser.com/storage/covers/messenger.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Messenger_game_cover.jpg",
      "playUrl": "https://messenger.abeto.co/",
      "coi": false,
      "pad": false,
@@ -8200,7 +8201,7 @@
     {
      "id": "01M5JF8SAFNK9KZ3YZ45DJCB5G",
      "title": "Metal Slug (Series)",
-     "poster": "https://ported2browser.com/storage/covers/metal-slug-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/MetalSlugLogo.png",
      "playUrl": "https://wasmarcade.com/retro-games/metal-slug",
      "coi": true,
      "pad": true,
@@ -8254,7 +8255,7 @@
     {
      "id": "01M52JPK5WVVCVAK5A2JDFYX1Q",
      "title": "Mindustry",
-     "poster": "https://ported2browser.com/storage/covers/mindustry.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mindyscreenshot2.png",
      "playUrl": "https://wasmga.me/games/mindustry",
      "coi": false,
      "pad": false,
@@ -8307,7 +8308,7 @@
     {
      "id": "01M2S6FQC9KFKA54K5M3MPRMF3",
      "title": "MiSide",
-     "poster": "https://ported2browser.com/storage/covers/miside.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/MiSideCoverArt.png",
      "playUrl": "https://wasm.rip/files/miside/miside.html",
      "coi": false,
      "pad": true,
@@ -8325,7 +8326,7 @@
     {
      "id": "01M49MAAP83JCZ40JNXBZ3VMX3",
      "title": "Monkey Island (Series)",
-     "poster": "https://ported2browser.com/storage/covers/monkey-island-series.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Monkey_Island_Logo.svg/960px-Monkey_Island_Logo.svg.png",
      "playUrl": "https://www.bestoldgames.net/secret-of-monkey-island/play",
      "coi": false,
      "pad": false,
@@ -8359,7 +8360,7 @@
     {
      "id": "01M5GWYE18D76R9W10EXC0P33M",
      "title": "Mortal Kombat: Armageddon",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-armageddon.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e2/MKAPS2.jpg",
      "playUrl": "https://mka.lauta.site/",
      "coi": true,
      "pad": false,
@@ -8394,7 +8395,7 @@
     {
      "id": "01M4EPKNJT2PQGN083WTYHHW37",
      "title": "MU Online",
-     "poster": "https://ported2browser.com/storage/covers/mu-online.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/MU_Online_logo.jpg",
      "playUrl": "https://muveyra.com/",
      "coi": true,
      "pad": false,
@@ -8446,7 +8447,7 @@
     {
      "id": "01M4YDH34Q0SN2HZB7YQP23DEK",
      "title": "NBA Street V3",
-     "poster": "https://ported2browser.com/storage/covers/nba-street-v3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/NBA_Street_V3_Coverart.png",
      "playUrl": "https://nbarecomp.xellrecomp.party/",
      "coi": false,
      "pad": true,
@@ -8481,7 +8482,7 @@
     {
      "id": "01M44503CPH5QG2KBKM4NJPRR3",
      "title": "Needy Streamer Overload",
-     "poster": "https://ported2browser.com/storage/covers/needy-streamer-overload.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Needy_Streamer_Overload_banner.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/nso/index.html",
      "coi": true,
      "pad": false,
@@ -8515,7 +8516,7 @@
     {
      "id": "01M5E295NKPHXG31780GESVB87",
      "title": "NFL Street 2",
-     "poster": "https://ported2browser.com/storage/covers/nfl-street-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/NFL_Street.jpg",
      "playUrl": "https://nilstreet.playthecombine.com/",
      "coi": true,
      "pad": true,
@@ -8565,7 +8566,7 @@
     {
      "id": "01M30H15J2M05S4CZPXW2NZHP5",
      "title": "Nippon Safes Inc.",
-     "poster": "https://ported2browser.com/storage/covers/nippon-safes-inc.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Nippon_Safes_Inc_cover.jpg",
      "playUrl": "https://scummweb.tsilva.eu/#game-nippon-safes-inc",
      "coi": false,
      "pad": true,
@@ -8582,7 +8583,7 @@
     {
      "id": "01M4XWPVD1MA4MFTTM6QXQRPW0",
      "title": "No One Lives Forever",
-     "poster": "https://ported2browser.com/storage/covers/no-one-lives-forever.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/No_one_lives_forever_video_game_PC_cover_scan.jpg",
      "playUrl": "https://playnolf.com/",
      "coi": true,
      "pad": true,
@@ -8617,7 +8618,7 @@
     {
      "id": "01M3MWMZ8CEFS33K2AAR0NEMP8",
      "title": "Ogre Battle 64",
-     "poster": "https://ported2browser.com/storage/covers/ogre-battle-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/OgreBattle64.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#ogrebattle64personoflordlycaliber",
      "coi": false,
      "pad": true,
@@ -8635,7 +8636,7 @@
     {
      "id": "01M44503CR5J15SBB54ZV82RGM",
      "title": "OMORI",
-     "poster": "https://ported2browser.com/storage/covers/omori.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Omori_cover.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/gamefile/OMORI.html",
      "coi": true,
      "pad": true,
@@ -8653,7 +8654,7 @@
     {
      "id": "01M2S6FQCHQ7Y68BZWPNZEZZ74",
      "title": "OneShot: World Machine Edition",
-     "poster": "https://ported2browser.com/storage/covers/oneshot-world-machine-edition.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/OneShot_cover_art.png",
      "playUrl": "https://wasm.rip/files/oneshot-wme/index.html",
      "coi": false,
      "pad": true,
@@ -8671,7 +8672,7 @@
     {
      "id": "01M4RHX70MHB5XGSKX3FTX81R9",
      "title": "Oni",
-     "poster": "https://ported2browser.com/storage/covers/oni.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Oni_Coverart.jpg",
      "playUrl": "https://spade-skill.github.io/",
      "coi": false,
      "pad": false,
@@ -8688,7 +8689,7 @@
     {
      "id": "01M47576HWYAKRNQJYJF8J3CR2",
      "title": "OpenTTD",
-     "poster": "https://ported2browser.com/storage/covers/openttd.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Openttdlogo.svg/330px-Openttdlogo.svg.png",
      "playUrl": "https://dos.zone/open-ttd/",
      "coi": true,
      "pad": false,
@@ -8724,7 +8725,7 @@
     {
      "id": "01M3MWMZ81PJPHEEDDPMMVMPRW",
      "title": "Paper Mario",
-     "poster": "https://ported2browser.com/storage/covers/paper-mario.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Papermario.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#papermario",
      "coi": false,
      "pad": true,
@@ -8742,7 +8743,7 @@
     {
      "id": "01M3MWMZ7ZK5V4GCHG1DSNABHC",
      "title": "Perfect Dark",
-     "poster": "https://ported2browser.com/storage/covers/perfect-dark.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/Perfect_dark_box.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#perfectdark",
      "coi": false,
      "pad": true,
@@ -8760,7 +8761,7 @@
     {
      "id": "01M3MWMZ8NCY50K8VECYX227MV",
      "title": "Phantasmagoria 1 & 2",
-     "poster": "https://ported2browser.com/storage/covers/phantasmagoria.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sierra-Phantasmagoria.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#phantasmogaria1",
      "coi": false,
      "pad": false,
@@ -8778,7 +8779,7 @@
     {
      "id": "01M2R5GXHSPB0YQHRRKTEKNNJT",
      "title": "Phantasy Star Online",
-     "poster": "https://ported2browser.com/storage/covers/phantasy-star-online.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d3/Phantasy_Star_Online_cover_art_jp.png",
      "playUrl": "https://psoreborn.com/",
      "coi": false,
      "pad": true,
@@ -8796,7 +8797,7 @@
     {
      "id": "01M44503CT3BM9BZR2SBM325JP",
      "title": "Pikuniku",
-     "poster": "https://ported2browser.com/storage/covers/pikuniku.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/pikubog/index.html",
      "coi": true,
      "pad": true,
@@ -8814,7 +8815,7 @@
     {
      "id": "01M44503CW15J1K2B0RS51AB66",
      "title": "Pizza Tower",
-     "poster": "https://ported2browser.com/storage/covers/pizza-tower.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/Pizza_Tower_Promo_Art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/NoiseUpdate/index.html",
      "coi": true,
      "pad": true,
@@ -8904,7 +8905,7 @@
     {
      "id": "01M52FZSRWMVAAB3F6THXNF8MJ",
      "title": "Pokémon Stadium 2",
-     "poster": "https://ported2browser.com/storage/covers/pokemon-stadium-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/70/Pokemonstadiumbox.jpg",
      "playUrl": "https://azelf420.github.io/s2w/",
      "coi": false,
      "pad": true,
@@ -8974,7 +8975,7 @@
     {
      "id": "01M30H15FZXY4FAR7EHVQ748FS",
      "title": "Quake",
-     "poster": "https://ported2browser.com/storage/covers/quake.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg",
      "playUrl": "https://qwasm.m-h.org.uk/",
      "coi": false,
      "pad": true,
@@ -8992,7 +8993,7 @@
     {
      "id": "01M30H15G3H4X1GPFV7BBGJEDA",
      "title": "Quake II",
-     "poster": "https://ported2browser.com/storage/covers/quake-ii.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg",
      "playUrl": "https://qwasm2.m-h.org.uk/",
      "coi": false,
      "pad": true,
@@ -9010,7 +9011,7 @@
     {
      "id": "01M3MWMZ7P9EYYQTVJ47VFN3GA",
      "title": "Quest 64",
-     "poster": "https://ported2browser.com/storage/covers/quest-64.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/Quest64_big.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#quest64",
      "coi": false,
      "pad": true,
@@ -9028,7 +9029,7 @@
     {
      "id": "01M4RJBE263X4B9R1TCS1NS8CN",
      "title": "R.E.P.O.",
-     "poster": "https://ported2browser.com/storage/covers/repo.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/12/R.E.P.O._cover.jpg",
      "playUrl": "https://truffled.lol/unityframe.html?url=/games/repo/index.html",
      "coi": true,
      "pad": false,
@@ -9045,7 +9046,7 @@
     {
      "id": "01M2S6FQCV3H4MXRSMXAGHT0MY",
      "title": "Ravenfield",
-     "poster": "https://ported2browser.com/storage/covers/ravenfield.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Ravenfield_Steam_Cover.jpg",
      "playUrl": "https://wasm.rip/files/ravenfield/index.html",
      "coi": false,
      "pad": true,
@@ -9063,7 +9064,7 @@
     {
      "id": "01M3MWMZ8YPAR585J4R2W502Q2",
      "title": "Rayman (Series)",
-     "poster": "https://ported2browser.com/storage/covers/rayman-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Rayman_1_cover.png",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#rayman1",
      "coi": false,
      "pad": true,
@@ -9081,7 +9082,7 @@
     {
      "id": "01M4E03JWP4R4WMADBACBQZ3VP",
      "title": "Red Alert 2",
-     "poster": "https://ported2browser.com/storage/covers/red-alert-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/11/Cncra2-win-cover.jpg",
      "playUrl": "https://game.chronodivide.com/",
      "coi": false,
      "pad": false,
@@ -9117,7 +9118,7 @@
     {
      "id": "01M5GWYE0CWET7S3ACPNHAX30M",
      "title": "Resident Evil Outbreak",
-     "poster": "https://ported2browser.com/storage/covers/resident-evil-outbreak.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/ad/Re_outbreak_a.jpg",
      "playUrl": "https://outbreakweb.com/",
      "coi": true,
      "pad": true,
@@ -9134,7 +9135,7 @@
     {
      "id": "01M30H15GGBJVK6CASYEVR711R",
      "title": "Return to Castle Wolfenstein",
-     "poster": "https://ported2browser.com/storage/covers/return-to-castle-wolfenstein.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Return_to_Castle_Wolfenstein_Coverart.jpg",
      "playUrl": "https://wwasm.m-h.org.uk/",
      "coi": false,
      "pad": true,
@@ -9170,7 +9171,7 @@
     {
      "id": "01M47576HS9WZM0CVDC9CB7N3X",
      "title": "Road Rash",
-     "poster": "https://ported2browser.com/storage/covers/road-rash.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/RoadRashCover.jpg",
      "playUrl": "https://dos.zone/road-rash/",
      "coi": true,
      "pad": false,
@@ -9205,7 +9206,7 @@
     {
      "id": "01M3MWMZ8JQ4NB6MAZ3KQP7BWF",
      "title": "RollerCoaster Tycoon 1 & 2",
-     "poster": "https://ported2browser.com/storage/covers/rollercoaster-tycoon.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1d/Rct-box.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#rollercoastertycoon1",
      "coi": false,
      "pad": false,
@@ -9240,7 +9241,7 @@
     {
      "id": "01M5QN4S9TCSERTFQ89Q8Q6A2E",
      "title": "Rugby 08",
-     "poster": "https://ported2browser.com/storage/covers/rugby-08.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Rugby_08_Coverart.png",
      "playUrl": "https://mitchivin.github.io/rugby08/",
      "coi": false,
      "pad": true,
@@ -9256,7 +9257,7 @@
     {
      "id": "01M2S6FQDBXGX7TW1YXYNT2B0D",
      "title": "SCP: Containment Breach",
-     "poster": "https://ported2browser.com/storage/covers/scp-containment-breach.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/5/54/SCP_-_Containment_Breach.jpg",
      "playUrl": "https://wasm.rip/files/scp/index.html",
      "coi": false,
      "pad": true,
@@ -9274,7 +9275,7 @@
     {
      "id": "01M2S6FQBWZY7Q3W86W4BRC5H4",
      "title": "Serial Experiments Lain",
-     "poster": "https://ported2browser.com/storage/covers/serial-experiments-lain.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Serial_Experiments_Lain_%28video_game%29.jpg",
      "playUrl": "https://3d.laingame.net/",
      "coi": false,
      "pad": false,
@@ -9291,7 +9292,7 @@
     {
      "id": "01M4RSDRCPXRTKPRT50EBRRCW5",
      "title": "Skate 3",
-     "poster": "https://ported2browser.com/storage/covers/skate-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/8/84/Skate-3-Boxart.jpg",
      "playUrl": "https://skate.aaddpp.lol/",
      "coi": false,
      "pad": true,
@@ -9307,7 +9308,7 @@
     {
      "id": "01M5QN4SA8R8HEKVF3B0PY80X1",
      "title": "Slime Rancher",
-     "poster": "https://ported2browser.com/storage/covers/slime-rancher.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Slime_Rancher_cover_art.png",
      "playUrl": "https://gn-math.dev/?id=591",
      "coi": false,
      "pad": true,
@@ -9325,7 +9326,7 @@
     {
      "id": "01M2S6FQBYV70DQHP3D070VCQP",
      "title": "Sonic 4: Episode I",
-     "poster": "https://ported2browser.com/storage/covers/sonic-the-hedgehog-4-episode-i.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/S4%2CEP1_boxart.png",
      "playUrl": "https://wamwoowam.co.uk/sonic4/",
      "coi": false,
      "pad": true,
@@ -9343,7 +9344,7 @@
     {
      "id": "01M2S6FQBRQ3SZ0VT920RD409Q",
      "title": "Sonic CD",
-     "poster": "https://ported2browser.com/storage/covers/sonic-cd.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sonic_CD_North_American_cover_art.jpg",
      "playUrl": "https://tws2401.github.io/Sonic-CD-WASM/",
      "coi": false,
      "pad": true,
@@ -9360,7 +9361,7 @@
     {
      "id": "01M30W4JRWZK8E7J64J76N1M31",
      "title": "Sonic Robo Blast 2",
-     "poster": "https://ported2browser.com/storage/covers/sonic-robo-blast-2-web.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
      "playUrl": "https://afd2025.srb2.org/",
      "coi": true,
      "pad": true,
@@ -9378,7 +9379,7 @@
     {
      "id": "01M30W4JS466K75MBYKG5JSBAS",
      "title": "Sonic Robo Blast 2 Kart",
-     "poster": "https://ported2browser.com/storage/covers/sonic-robo-blast-2-kart-wasm.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
      "playUrl": "https://skyleite.github.io/Kart-Public-WASM/",
      "coi": false,
      "pad": true,
@@ -9414,7 +9415,7 @@
     {
      "id": "01M2S6FQBT0S61Q39CJSQ6CR4M",
      "title": "Sonic the Hedgehog",
-     "poster": "https://ported2browser.com/storage/covers/sonic-the-hedgehog.webp",
+     "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/1280px-Sonic_The_Hedgehog.svg.png",
      "playUrl": "https://vinmannie.github.io/Sonic-1-WASM/",
      "coi": false,
      "pad": true,
@@ -9432,7 +9433,7 @@
     {
      "id": "01M4PHXHFBC84M4QZZK1QX02A5",
      "title": "Spore Origins",
-     "poster": "https://ported2browser.com/storage/covers/spore-origins.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Sporemobile.jpg",
      "playUrl": "https://nomadic-ua.itch.io/spore-origins",
      "coi": false,
      "pad": false,
@@ -9484,7 +9485,7 @@
     {
      "id": "01M2S6FQCMXDKZVKZTF859YQPV",
      "title": "Stardew Valley",
-     "poster": "https://ported2browser.com/storage/covers/stardew-valley.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
      "playUrl": "https://wasm.rip/files/stardewvalley/index.html",
      "coi": false,
      "pad": true,
@@ -9502,7 +9503,7 @@
     {
      "id": "01M3MS0W12YBAW9EJTDEXT1FFS",
      "title": "Streets of Rage (Series)",
-     "poster": "https://ported2browser.com/storage/covers/sor-cover.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/06/Streets_of_Rage_%28cover%29.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#streetsofrage1",
      "coi": false,
      "pad": true,
@@ -9556,7 +9557,7 @@
     {
      "id": "01M2S6FQC0FYKN1KMBD4GB2KQ3",
      "title": "Super Mario Bros.",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-bros.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
      "playUrl": "https://supermarioplay.com/",
      "coi": false,
      "pad": false,
@@ -9573,7 +9574,7 @@
     {
      "id": "01M2S6FQC1R4A8FRN6MW16BH02",
      "title": "Super Mario Kart",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-kart.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG",
      "playUrl": "https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html",
      "coi": false,
      "pad": true,
@@ -9591,7 +9592,7 @@
     {
      "id": "01M2S6FQC3E3V9C2ZYZ25VNJST",
      "title": "Super Mario Land",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-land.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
      "playUrl": "https://badspot.us/Mario-Land-Fun.html",
      "coi": false,
      "pad": true,
@@ -9645,7 +9646,7 @@
     {
      "id": "01M2S6FQBQMZMNGT0BQ7WQED36",
      "title": "Super Monkey Ball",
-     "poster": "https://ported2browser.com/storage/covers/super-monkey-ball.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/96/Super_Monkey_Ball_Coverart.png",
      "playUrl": "https://monkeyball-online.pages.dev/",
      "coi": false,
      "pad": true,
@@ -9663,7 +9664,7 @@
     {
      "id": "01M2R5GXHZ8CAQCRGM83A2NB5C",
      "title": "Super Smash Bros. 64",
-     "poster": "https://ported2browser.com/storage/covers/super-smash-bros.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
      "playUrl": "https://smash.fun/",
      "coi": true,
      "pad": true,
@@ -9717,7 +9718,7 @@
     {
      "id": "01M2S6FQC6G72XA715R2WM6351",
      "title": "Taiko no Tatsujin",
-     "poster": "https://ported2browser.com/storage/covers/taiko-web-cover.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a8/Taiko_no_Tatsujin_2021_EN_logo.png",
      "playUrl": "https://cjdgrevival.com/",
      "coi": false,
      "pad": true,
@@ -9751,7 +9752,7 @@
     {
      "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
      "title": "Tekken 5",
-     "poster": "https://ported2browser.com/storage/covers/tekken-5.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
      "playUrl": "https://tekken5.online/",
      "coi": false,
      "pad": true,
@@ -9768,7 +9769,7 @@
     {
      "id": "01M4ZTRTVENYXSAPMVX1HHCNXG",
      "title": "Tekken: Dark Resurrection",
-     "poster": "https://ported2browser.com/storage/covers/tekken-dark-resurrection.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/PSP-TekkenDarkRessurectionUSversion-FrontCover.jpg",
      "playUrl": "https://tkdr-recomp.pages.dev/",
      "coi": true,
      "pad": true,
@@ -9785,7 +9786,7 @@
     {
      "id": "01M4SGSKVNXC4T605S1WMXEFGD",
      "title": "Terraria",
-     "poster": "https://ported2browser.com/storage/covers/terraria.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg",
      "playUrl": "https://gn-math.dev/?id=669",
      "coi": false,
      "pad": true,
@@ -9803,7 +9804,7 @@
     {
      "id": "01M47576J2SJ3A802WT1Q9YTZC",
      "title": "The Lost Vikings",
-     "poster": "https://ported2browser.com/storage/covers/lost-vikings.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/The_Lost_Vikings_SNES_cover.jpg",
      "playUrl": "https://dos.zone/the-lost-vikings-1993/",
      "coi": true,
      "pad": false,
@@ -9853,7 +9854,7 @@
     {
      "id": "01M47576J1P7CWRJPMQG6VXA25",
      "title": "The Oregon Trail",
-     "poster": "https://ported2browser.com/storage/covers/oregon-trail-deluxe.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/TheOregonTrail1971Gameplay.png",
      "playUrl": "https://dos.zone/oregon-trail-deluxe-1992/",
      "coi": true,
      "pad": false,
@@ -9871,7 +9872,7 @@
     {
      "id": "01M3MWMZ8R10JB51EJR092CX27",
      "title": "TMNT (Series)",
-     "poster": "https://ported2browser.com/storage/covers/tmnt-series.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a0/TMNT_Box_Art.jpg",
      "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#teenagemutantninjaturtles",
      "coi": false,
      "pad": true,
@@ -9907,7 +9908,7 @@
     {
      "id": "01M2R5GXHWEX5X80W7B86RC6CQ",
      "title": "Tomb Raider",
-     "poster": "https://ported2browser.com/storage/covers/tomb-raider.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tomb_Raider_Logo_2022.png",
      "playUrl": "http://xproger.info/projects/OpenLara/",
      "coi": false,
      "pad": true,
@@ -9925,7 +9926,7 @@
     {
      "id": "01M52VY8J1WK7MSQG05MF0WAAR",
      "title": "Total Overdose",
-     "poster": "https://ported2browser.com/storage/covers/total-overdose.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Total_Overdose_Coverart.png",
      "playUrl": "https://tod-game.pages.dev/",
      "coi": true,
      "pad": false,
@@ -9942,7 +9943,7 @@
     {
      "id": "01M4XBZEZ0E1B1J0Z32XJEKYKX",
      "title": "Tremulous",
-     "poster": "https://ported2browser.com/storage/covers/tremulous.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tremulous_logo.png",
      "playUrl": "https://webnova360.com/play-tremulous/",
      "coi": false,
      "pad": false,
@@ -9959,7 +9960,7 @@
     {
      "id": "01M2S6FQD4B4J0TQ8PZ1VER0W7",
      "title": "Trombone Champ",
-     "poster": "https://ported2browser.com/storage/covers/trombone-champ.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Steam_Storefront_cover_art_for_Trombone_Champ.jpg",
      "playUrl": "https://wasm.rip/files/tchamp/index.html",
      "coi": false,
      "pad": true,
@@ -9977,7 +9978,7 @@
     {
      "id": "01M30H15F7NART8S5DQW64KKB6",
      "title": "Tsukihime",
-     "poster": "https://ported2browser.com/storage/covers/tsukihime.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Tsukihime.jpg",
      "playUrl": "https://tsukiweb.holofield.fr/",
      "coi": false,
      "pad": true,
@@ -10013,7 +10014,7 @@
     {
      "id": "01M30W4JV6KMTDXTVYDAFCKKMJ",
      "title": "Undertale Yellow",
-     "poster": "https://ported2browser.com/storage/covers/undertale-yellow.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Undertale_Yellow.png",
      "playUrl": "https://www.dubdoo.com/class/undertale-yellow",
      "coi": false,
      "pad": true,
@@ -10031,7 +10032,7 @@
     {
      "id": "01M44503DP1XDD5Z0GD066BXD3",
      "title": "Vampire Survivors",
-     "poster": "https://ported2browser.com/storage/covers/vampire-survivors.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e6/Vampire_Survivors_key_art.jpg",
      "playUrl": "https://truffled.lol/iframe.html?url=/games/vampire/index.html",
      "coi": true,
      "pad": true,
@@ -10049,7 +10050,7 @@
     {
      "id": "01M5KFSM5R9THA69K3F6RXZXGG",
      "title": "Virtua Tennis 3",
-     "poster": "https://ported2browser.com/storage/covers/virtua-tennis-3.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/Virtua_Tennis_flyer.jpg",
      "playUrl": "https://vt3.online/",
      "coi": false,
      "pad": true,
@@ -10084,7 +10085,7 @@
     {
      "id": "01M47576HK587GD42GH1ZFYMQN",
      "title": "Warcraft II",
-     "poster": "https://ported2browser.com/storage/covers/warcraft-2.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/Warcraftii-beyond-the-dark-portal-cover-art.jpg",
      "playUrl": "https://dos.zone/warcraft-ii-tides-of-darkness/",
      "coi": true,
      "pad": false,
@@ -10102,7 +10103,7 @@
     {
      "id": "01M2S6FQD2C6DZPZRJPBW5M91M",
      "title": "while True: learn()",
-     "poster": "https://ported2browser.com/storage/covers/while-true-learn.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Whiletruelearntitlecard.jpg",
      "playUrl": "https://wasm.rip/files/wtl/index.html",
      "coi": false,
      "pad": true,
@@ -10120,7 +10121,7 @@
     {
      "id": "01M2S6FQBMXEEV302A3KR36NV1",
      "title": "wipEout",
-     "poster": "https://ported2browser.com/storage/covers/wipeout.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/WipEoutCover.jpg",
      "playUrl": "https://phoboslab.org/wipegame/",
      "coi": false,
      "pad": true,
@@ -10187,7 +10188,7 @@
     {
      "id": "01M3T7CMKA7MPFBC5M2C3JEV10",
      "title": "Xenosaga Pied Piper",
-     "poster": "https://ported2browser.com/storage/covers/xenosaga-pied-piper.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Xenosaga_Pied_Piper_logo.jpg",
      "playUrl": "https://cyclonefox.itch.io/xenosaga-pied-piper",
      "coi": false,
      "pad": true,
@@ -10241,7 +10242,7 @@
     {
      "id": "01M4PKNPSMJYY186G7F124K0TD",
      "title": "You Don't Know Jack",
-     "poster": "https://ported2browser.com/storage/covers/you-dont-know-jack.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/45/You_Don%27t_Know_Jack_Logo.png",
      "playUrl": "https://www.ydkj.co.uk/",
      "coi": false,
      "pad": false,
@@ -10292,7 +10293,7 @@
     {
      "id": "01M40ZXWEHRG2YK2EXSTZWC45W",
      "title": "Zoombinis",
-     "poster": "https://ported2browser.com/storage/covers/zoombinis.webp",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Zoombinis_Cover.jpg",
      "playUrl": "https://zoombinis.online/",
      "coi": false,
      "pad": false,
@@ -10329,7 +10330,7 @@
   },
   {
    "id": "crazy",
-   "title": "Web arcade · CrazyGames",
+   "title": "Web Arcade",
    "items": [
     {
      "id": "cg-smash-karts",
@@ -10347,7 +10348,7 @@
     {
      "id": "cg-shellshockersio",
      "title": "Shell Shockers",
-     "poster": "https://imgs.crazygames.com/shellshockersio_16x9/20261015042138/shellshockersio_16x9-cover.png?metadata=none&amp;quality=100&amp;width=1200&amp;height=630&amp;fit=crop",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Shell_Shockers_promo_art.png",
      "playUrl": "https://games.crazygames.com/en_US/shellshockersio/index.html",
      "coi": true,
      "pad": false,
@@ -10360,7 +10361,7 @@
     {
      "id": "cg-agario",
      "title": "Agar io",
-     "poster": "https://imgs.crazygames.com/agario/20230719092731/agario-cover?metadata=none&amp;quality=100&amp;width=1200&amp;height=630&amp;fit=crop",
+     "poster": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Agar.io_Logo.png",
      "playUrl": "https://games.crazygames.com/en_US/agario/index.html",
      "coi": true,
      "pad": false,
@@ -10464,7 +10465,7 @@
     {
      "id": "cg-block-blast",
      "title": "Tank Games",
-     "poster": "https://imgs.crazygames.com/iron-legion_16x9/20260710061041/iron-legion_16x9-cover?metadata=none&amp;width=1200&amp;height=630&amp;fit=crop",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ec/Tank_%28arcade_game%29.jpg",
      "playUrl": "https://games.crazygames.com/en_US/block-blast/index.html",
      "coi": true,
      "pad": false,

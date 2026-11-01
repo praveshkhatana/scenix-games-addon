@@ -1,7 +1,7 @@
 # Scenix Games add-on
 
 The game catalogue for the Scenix TV app as a standalone add-on:
-console/PC browser ports (ported2browser catalogue), a CrazyGames web arcade, and a curated
+browser ports of console and PC classics, a web arcade, and a curated
 "Highlighted" row — all as plain data, so the Scenix app repo itself carries no game data.
 
 **Install in Scenix:** Settings → Add-ons → add
