@@ -51,21 +51,6 @@
       "adventure"
      ],
      "desc": "An open-world engine compiled for the browser, threads and all."
-    },
-    {
-     "id": "own-cricket07",
-     "title": "Cricket 07",
-     "poster": "https://cricket07.dhaiwat.com/cricket07-logo.png",
-     "playUrl": "https://cricket07.dhaiwat.com/",
-     "coi": true,
-     "pad": false,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "sports"
-     ],
-     "desc": "The classic cricket sim, ported to run in the browser."
     }
    ]
   },
