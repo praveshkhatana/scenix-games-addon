@@ -34,3 +34,13 @@ Each entry is:
 The catalogue is regenerated from the Scenix hub's build tool (`hub/tools/build-game-addon.js`)
 whenever sources change; commit the regenerated `games.json` here and clients pick it up
 within six hours.
+
+## Whose content is this?
+
+This repository is **data, not content**. It is a list — titles, poster links and play links
+pointing at game pages hosted by third parties. Scenix does not host, own or license any of
+the games; the app opens the link, the way a browser does. Game names, artwork and the games
+themselves belong to their respective owners and appear here only to identify what a link
+points at. What you play, and whether you may play it where you live, is yours to decide and
+yours to check — the same rule as every other Scenix add-on: **Scenix is a player, not a
+provider.**
