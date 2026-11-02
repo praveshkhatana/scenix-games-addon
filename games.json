@@ -9,17 +9,17 @@
      "id": "own-subway",
      "title": "Subway Surfers",
      "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a3/Subway_Surfers_logo.svg/500px-Subway_Surfers_logo.svg.png",
-     "playUrl": "https://www.miniplay.com/embed/subway-surfers",
+     "playUrl": "https://game3.glov3.me/uploads/game/html5/25438/",
      "coi": false,
      "pad": false,
      "kb": true,
      "touch": true,
-     "ua": "desktop",
+     "ua": "",
      "tags": [
       "arcade",
       "runner"
      ],
-     "desc": "The endless runner. D-pad steers the lanes and jumps."
+     "desc": "The endless runner. Remote swipes steer lanes and jumps — arrows and OK play it."
     },
     {
      "id": "own-mk64",
@@ -76,23 +76,6 @@
      "desc": ""
     },
     {
-     "id": "01M60CWF1PR2W2R10SH922XT3T",
-     "title": "Tekken 4",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken4.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5Z6E7BXTJ6XEG8XP1AB3VYM",
      "title": "Soulcalibur 2",
      "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Soulcalibur_flyer.png",
@@ -166,41 +149,6 @@
      "title": "Dragon Ball Z: BT 3",
      "poster": "",
      "playUrl": "https://dragonballbt3.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5GWYE0QWTT93A5DX346W947",
-     "title": "Mortal Kombat: SM",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-shaolin-monks.webp",
-     "playUrl": "https://mortalkombatsm.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Work-in-progress",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
-     "title": "Tekken 5",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken5.online/",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -248,40 +196,6 @@
      "desc": ""
     },
     {
-     "id": "01M5W2MP44VK31C4FGSMKXGDKX",
-     "title": "Marvel vs Capcom 2",
-     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
-     "playUrl": "https://marvelvscapcom2.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X8SY3PRM2N1XK1AC26N",
-     "title": "Def Jam: Fight for NY",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
-     "playUrl": "https://def-jam.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5P15X8KKFSRRSBBPMQ5K27N",
      "title": "Naruto (NSUNI)",
      "poster": "https://ported2browser.com/storage/covers/naruto-nsuni.webp",
@@ -295,6 +209,96 @@
       "Action",
       "Fighting",
       "Multiplayer"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M2R5GXHZ8CAQCRGM83A2NB5C",
+     "title": "Super Smash Bros. 64",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
+     "playUrl": "https://smash.fun/",
+     "coi": true,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Party",
+      "Fighting",
+      "Platformer"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M3MWMZ8R10JB51EJR092CX27",
+     "title": "TMNT (Series)",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a0/TMNT_Box_Art.jpg",
+     "playUrl": "https://www.lemon-web.net/applications/lemon-web-games#teenagemutantninjaturtles",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Fighting",
+      "Compendium",
+      "Beat 'em up"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M5MDYY1PG4GVKA89PBVZNPCJ",
+     "title": "Grand Theft Auto: Vice City",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
+     "playUrl": "https://quenq.com/apps/vice-city/",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Open world"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M2S6FQD9YE64PB0SVJQK9A5H",
+     "title": "Grand Theft Auto III",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg",
+     "playUrl": "https://wasm.rip/files/gta3/index.html",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Open world"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M44503CKESP22FADTF8K56Y2",
+     "title": "Mario Kart 64",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
+     "playUrl": "https://truffled.lol/iframe.html?url=/games/mk64/index.html",
+     "coi": true,
+     "pad": true,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Arcade",
+      "Party",
+      "Fantasy",
+      "Racing"
      ],
      "desc": ""
     }
@@ -322,23 +326,6 @@
      "desc": ""
     },
     {
-     "id": "01M60CWF1PR2W2R10SH922XT3T",
-     "title": "Tekken 4",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken4.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5Z6E7BXTJ6XEG8XP1AB3VYM",
      "title": "Soulcalibur 2",
      "poster": "https://upload.wikimedia.org/wikipedia/en/4/45/Soulcalibur_flyer.png",
@@ -347,23 +334,6 @@
      "pad": true,
      "kb": true,
      "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5W2MP44VK31C4FGSMKXGDKX",
-     "title": "Marvel vs Capcom 2",
-     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
-     "playUrl": "https://marvelvscapcom2.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
      "ua": "",
      "tags": [
       "Action",
@@ -398,23 +368,6 @@
      "pad": true,
      "kb": true,
      "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X8SY3PRM2N1XK1AC26N",
-     "title": "Def Jam: Fight for NY",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
-     "playUrl": "https://def-jam.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
      "ua": "",
      "tags": [
       "Action",
@@ -459,24 +412,6 @@
      "desc": ""
     },
     {
-     "id": "01M5GWYE0QWTT93A5DX346W947",
-     "title": "Mortal Kombat: SM",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-shaolin-monks.webp",
-     "playUrl": "https://mortalkombatsm.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Work-in-progress",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5P15X8KKFSRRSBBPMQ5K27N",
      "title": "Naruto (NSUNI)",
      "poster": "https://ported2browser.com/storage/covers/naruto-nsuni.webp",
@@ -508,23 +443,6 @@
       "Party",
       "Fighting",
       "Platformer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
-     "title": "Tekken 5",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken5.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
      ],
      "desc": ""
     },
@@ -600,23 +518,6 @@
       "Action",
       "Racing",
       "Fangame",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5W32TFX338FCD9PNGBXEP5E",
-     "title": "SSX 3",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/4/43/SSX_3_Coverart.png",
-     "playUrl": "https://ssx3.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
-      "Sports",
       "Multiplayer"
      ],
      "desc": ""
@@ -760,24 +661,6 @@
      "desc": ""
     },
     {
-     "id": "01M5MEQVMX01FKZ1HT6TWHX0ZJ",
-     "title": "Burnout 3: Takedown",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Burnout_3_-_Takedown_Coverart.jpg",
-     "playUrl": "https://burnout3.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Racing",
-      "Work-in-progress",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M2S6FQDH1CFV1758MKBPD4S6",
      "title": "Crashout Crew",
      "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Crashout_Crew.jpg",
@@ -807,22 +690,6 @@
      "tags": [
       "Arcade",
       "Sports",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5QN4SAH0W3GXZGXG87C7GR1",
-     "title": "Formula One 06",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/F1_06.jpg",
-     "playUrl": "https://f12006.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
       "Multiplayer"
      ],
      "desc": ""
@@ -959,22 +826,6 @@
       "Racing",
       "Work-in-progress",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5ABEHHTT1KBEBMD6WVS2ATR",
-     "title": "NFS: Most Wanted",
-     "poster": "https://ported2browser.com/storage/covers/need-for-speed-most-wanted.webp",
-     "playUrl": "https://dezm0n.itch.io/nfs-most-wanted-web-port",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
-      "Work-in-progress"
      ],
      "desc": ""
     },
@@ -1156,22 +1007,6 @@
    "title": "Console & PC classics",
    "items": [
     {
-     "id": "01M66Y2PNXR159F6S3YJH23QZT",
-     "title": "Ratchet & Clank: SM",
-     "poster": "https://ported2browser.com/storage/covers/ratchet-and-clank-size-matters.webp",
-     "playUrl": "https://ratchetclanksizematters.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Platformer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M66QKA1GZA8TZ47783TX9BJD",
      "title": "Sonic Mania",
      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Sonic_Mania_%28artwork%29.jpg",
@@ -1225,7 +1060,7 @@
      "id": "01M66FJR73XTTX269A3TD2Y4NZ",
      "title": "Super Mario Galaxy",
      "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg",
-     "playUrl": "https://raw.githack.com/T4ctica1YT/SMGwebport/main/index.html",
+     "playUrl": "https://cdn.jsdelivr.net/gh/T4ctica1YT/SMGwebport@main/index.html",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -1234,41 +1069,6 @@
      "tags": [
       "Adventure",
       "Platformer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M642JQH5HHNAKBVED75D53EF",
-     "title": "Egg Fried Rice",
-     "poster": "https://kbhgames.com/wp-content/uploads/2025/12/Egg-Fried-Rice.webp",
-     "playUrl": "https://kbhgames.com/game/egg-fried-rice",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Adventure",
-      "Indie",
-      "Horror"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M44503CEN5XSHT5W09SEK5M7",
-     "title": "Hollow Knight",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
-     "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Indie"
      ],
      "desc": ""
     },
@@ -1286,24 +1086,6 @@
       "Action",
       "Indie",
       "Shooter"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M60CWF1HTSHZ7KXRASFCEHSF",
-     "title": "Ambidextro",
-     "poster": "",
-     "playUrl": "https://ambidextro.surge.sh/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Puzzle",
-      "Indie",
-      "Platformer"
      ],
      "desc": ""
     },
@@ -1390,24 +1172,6 @@
       "Horror",
       "Survival",
       "Role-playing (RPG)"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5RK3ZG2EW9K2NNENVTWKDB4",
-     "title": "Resident Evil 4",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
-     "playUrl": "https://residentevil4.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Horror",
-      "Shooter"
      ],
      "desc": ""
     },
@@ -1519,10 +1283,10 @@
      "desc": ""
     },
     {
-     "id": "01M2S6FQD72E986AVX98S3G7S8",
-     "title": "PEAK",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
-     "playUrl": "https://wasm.rip/files/peak/PEAK.html",
+     "id": "01M44503CEN5XSHT5W09SEK5M7",
+     "title": "Hollow Knight",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
+     "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -1530,8 +1294,8 @@
      "ua": "",
      "tags": [
       "Action",
+      "Fantasy",
       "Adventure",
-      "Open world",
       "Indie"
      ],
      "desc": ""
@@ -1769,7 +1533,7 @@
      "id": "01M2S6FQD8H176M4GNFJH3CFMA",
      "title": "Among Us",
      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
-     "playUrl": "https://wasm.rip/files/amongus/index.html",
+     "playUrl": "https://wasm.rip/files/amongus/legacy/",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -1979,24 +1743,6 @@
      "desc": ""
     },
     {
-     "id": "01M3HQ1XWR2ZS1Z3FEGVWE0BVE",
-     "title": "Castlevania Romhacks",
-     "poster": "",
-     "playUrl": "https://kbhgames.com/tag/castlevania",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Horror"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4GSNSWRCHYG4XWJXV2FSVDP",
      "title": "Cave Story",
      "poster": "https://upload.wikimedia.org/wikipedia/en/8/83/Cave_Story_title_screen.png",
@@ -2151,42 +1897,6 @@
       "Indie",
       "Shooter",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3BAB0GB4VKRDPXZA226JGXD",
-     "title": "Daggerfall",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daggerfall_Cover_art.gif",
-     "playUrl": "https://daggerfalljs.dev/",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Open world",
-      "Role-playing (RPG)"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSVWGZDBQG49GH8ZDZN",
-     "title": "Deltarune: Lightners Live Plus",
-     "poster": "https://img.itch.zone/aW1nLzIxMzI5MzUyLnBuZw==/original/KMVxNM.png",
-     "playUrl": "https://ezioeagle.itch.io/lightners-live-plus",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Comedy"
      ],
      "desc": ""
     },
@@ -2423,60 +2133,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS4T189RQ5Y5AS12SV6",
-     "title": "Final Fantasy Romhacks",
-     "poster": "",
-     "playUrl": "https://romhaven.com/final-fantasy-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Compendium"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3GFCYRY4X0939B4GR9AXAD3",
-     "title": "Fire Emblem Romhacks",
-     "poster": "",
-     "playUrl": "https://romhaven.com/fire-emblem-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Strategy",
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Compendium"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JTJTC90RWCTFB05E7KJ",
-     "title": "Five Nights at Freddy's NES",
-     "poster": "https://img.itch.zone/aW1nLzcwMzQ5ODkucG5n/original/9XqrtP.png",
-     "playUrl": "https://endoblance.itch.io/fnafnes",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Strategy",
-      "Indie",
-      "Horror"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M30H15HEQCMH01AS12PV578T",
      "title": "Flight of the Amazon Queen",
      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a6/Flight_of_the_Amazon_Queen_box_art.jpg",
@@ -2666,22 +2322,6 @@
       "Strategy",
       "Role-playing (RPG)",
       "Turn-based strategy (TBS)"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15FFQVABPE1VXHWQDEZS",
-     "title": "Human Killing",
-     "poster": "https://ported2browser.com/storage/covers/human-killing-cover.webp",
-     "playUrl": "https://toen184.itch.io/human-killing-en",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Adventure",
-      "Indie"
      ],
      "desc": ""
     },
@@ -2989,24 +2629,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS6MHQA103BC1QZS615",
-     "title": "Metroid Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-metroid-cover.webp",
-     "playUrl": "https://romhaven.com/metroid-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Adventure",
-      "Compendium"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M52JPK5WVVCVAK5A2JDFYX1Q",
      "title": "Mindustry",
      "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mindyscreenshot2.png",
@@ -3079,22 +2701,6 @@
      "desc": ""
     },
     {
-     "id": "01M4GX05CNN00DYH2J8VYK27E3",
-     "title": "Moon Child FE",
-     "poster": "https://ported2browser.com/storage/covers/moon-child-fe.webp",
-     "playUrl": "https://mors-games.itch.io/moon-child-fe",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Platformer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4EPKNJT2PQGN083WTYHHW37",
      "title": "MU Online",
      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ed/MU_Online_logo.jpg",
@@ -3143,24 +2749,6 @@
       "Adventure",
       "Comedy",
       "Point-and-click"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSENG5SGNAVCQQ7TRBG",
-     "title": "NSMB – Mario Vs Luigi Online",
-     "poster": "https://ported2browser.com/storage/covers/nsmb-mario-vs-luigi-online.webp",
-     "playUrl": "https://ipodtouch0218.itch.io/nsmb-mariovsluigi",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Fangame",
-      "Platformer"
      ],
      "desc": ""
     },
@@ -3359,42 +2947,6 @@
       "Survival",
       "Role-playing (RPG)",
       "Sandbox"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3GFCYS28JZZ373BMDKSQJR5",
-     "title": "Pokémon Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-pokemon-cover.webp",
-     "playUrl": "https://romhaven.com/pokemon-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Role-playing (RPG)",
-      "Kids"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JTQW1TYTBCG6B1H72FN",
-     "title": "PokéPath TD",
-     "poster": "https://ported2browser.com/storage/covers/pokepath-td.webp",
-     "playUrl": "https://khydra98.itch.io/pokepath",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Strategy",
-      "Role-playing (RPG)"
      ],
      "desc": ""
     },
@@ -3630,24 +3182,6 @@
      "desc": ""
     },
     {
-     "id": "01M3HNDB7SMNM4H7D1J8QDVSAN",
-     "title": "Sonic Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-sonic-cover.webp",
-     "playUrl": "https://www.retrogames.onl/p/play-sega-genesis-games-online.html#:~:text=Sonic%203%20complete",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Compendium",
-      "Romhack"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M2S6FQBT0S61Q39CJSQ6CR4M",
      "title": "Sonic the Hedgehog",
      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/1280px-Sonic_The_Hedgehog.svg.png",
@@ -3716,24 +3250,6 @@
       "Adventure",
       "Strategy",
       "Indie"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSAHJYY8272G5ZAGH03",
-     "title": "Super Mario 127",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-127-itch.webp",
-     "playUrl": "https://solarshine-studios.itch.io/super-mario-127",
-     "coi": true,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Open world"
      ],
      "desc": ""
     },
@@ -4095,24 +3611,6 @@
      "desc": ""
     },
     {
-     "id": "01M3T7CMKA7MPFBC5M2C3JEV10",
-     "title": "Xenosaga Pied Piper",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Xenosaga_Pied_Piper_logo.jpg",
-     "playUrl": "https://cyclonefox.itch.io/xenosaga-pied-piper",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Science fiction",
-      "Adventure",
-      "Role-playing (RPG)",
-      "Fangame"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M30W4JT8S16K2SJ64SCFP5D4",
      "title": "Xim (FF11 fangame)",
      "poster": "https://ported2browser.com/storage/covers/xim-ffxi-fan-game.webp",
@@ -4145,39 +3643,6 @@
       "Horror",
       "Fangame",
       "Compendium"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3GFCYS86JNWS0GWGPA7Z94B",
-     "title": "Zelda Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-zelda-cover.webp",
-     "playUrl": "https://romhaven.com/zelda-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Puzzle"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15FH7XHZKAT75Z0CNN95",
-     "title": "ZENO Daily Life",
-     "poster": "https://ported2browser.com/storage/covers/zeno-no-nichijou.webp",
-     "playUrl": "https://e9116.itch.io/zdl912",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Adventure"
      ],
      "desc": ""
     },
@@ -4216,13 +3681,43 @@
       "Fangame"
      ],
      "desc": ""
-    }
-   ]
-  },
-  {
-   "id": "retro",
-   "title": "Retro & arcade",
-   "items": [
+    },
+    {
+     "id": "01M2S6FQD72E986AVX98S3G7S8",
+     "title": "PEAK",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
+     "playUrl": "https://wasm.rip/files/peak/PEAK.html",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Open world",
+      "Indie"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M3HNDB7SMNM4H7D1J8QDVSAN",
+     "title": "Sonic Romhacks",
+     "poster": "https://ported2browser.com/storage/covers/rh-sonic-cover.webp",
+     "playUrl": "https://www.retrogames.onl/p/play-sega-genesis-games-online.html#:~:text=Sonic%203%20complete",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Compendium",
+      "Romhack"
+     ],
+     "desc": ""
+    },
     {
      "id": "01M60CWF1HTSHZ7KXRASFCEHSF",
      "title": "Ambidextro",
@@ -4240,7 +3735,13 @@
       "Platformer"
      ],
      "desc": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": "retro",
+   "title": "Retro & arcade",
+   "items": [
     {
      "id": "01M5YS19W7END4BSJ918X5C0AQ",
      "title": "There Is No Game: WD",
@@ -4310,24 +3811,6 @@
       "Party",
       "Fantasy",
       "Racing"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M4EP297RM31YD70WXZQ55W12",
-     "title": "Windows 98",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
-     "playUrl": "https://berrry.wine/",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Arcade",
-      "Puzzle",
-      "Simulation",
-      "Emulator"
      ],
      "desc": ""
     },
@@ -4418,21 +3901,6 @@
       "Action",
       "Adventure",
       "Fighting"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M4PHXHF9XRJKB0R4BPP5J6V5",
-     "title": "Amazing Alex",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Amazing_Alex_Official_Logo.png",
-     "playUrl": "https://nomadic-ua.itch.io/amazing-alex",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Puzzle"
      ],
      "desc": ""
     },
@@ -4604,22 +4072,6 @@
      "ua": "",
      "tags": [
       "Puzzle"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M2S6FQC4QTVFY4HW0QQG6ENR",
-     "title": "Daedalian Opus",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/DaedalianOpusTitleScreen.png",
-     "playUrl": "https://joyrider3774.itch.io/puzzle-land-playdate",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Puzzle",
-      "Strategy"
      ],
      "desc": ""
     },
@@ -5205,24 +4657,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS86JNWS0GWGPA7Z94B",
-     "title": "Zelda Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-zelda-cover.webp",
-     "playUrl": "https://romhaven.com/zelda-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Puzzle"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M40ZXWEHRG2YK2EXSTZWC45W",
      "title": "Zoombinis",
      "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Zoombinis_Cover.jpg",
@@ -5237,6 +4671,42 @@
       "Puzzle",
       "Educational",
       "Kids"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M4EP297RM31YD70WXZQ55W12",
+     "title": "Windows 98",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
+     "playUrl": "https://berrry.wine/",
+     "coi": false,
+     "pad": false,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Arcade",
+      "Puzzle",
+      "Simulation",
+      "Emulator"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M60CWF1HTSHZ7KXRASFCEHSF",
+     "title": "Ambidextro",
+     "poster": "",
+     "playUrl": "https://ambidextro.surge.sh/",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Puzzle",
+      "Indie",
+      "Platformer"
      ],
      "desc": ""
     }
@@ -5259,22 +4729,6 @@
      "tags": [
       "Strategy",
       "Card & Board Game"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M66Y2PNXR159F6S3YJH23QZT",
-     "title": "Ratchet & Clank: SM",
-     "poster": "https://ported2browser.com/storage/covers/ratchet-and-clank-size-matters.webp",
-     "playUrl": "https://ratchetclanksizematters.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Platformer"
      ],
      "desc": ""
     },
@@ -5350,7 +4804,7 @@
      "id": "01M66FJR73XTTX269A3TD2Y4NZ",
      "title": "Super Mario Galaxy",
      "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg",
-     "playUrl": "https://raw.githack.com/T4ctica1YT/SMGwebport/main/index.html",
+     "playUrl": "https://cdn.jsdelivr.net/gh/T4ctica1YT/SMGwebport@main/index.html",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -5359,58 +4813,6 @@
      "tags": [
       "Adventure",
       "Platformer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M64NWZ2KE9NVF5K5CHVADZM6",
-     "title": "Worms: OW 2",
-     "poster": "https://ported2browser.com/storage/covers/worms-ow-2.webp",
-     "playUrl": "https://dezm0n.itch.io/worms-ow2-web",
-     "coi": true,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Strategy",
-      "Multiplayer",
-      "Emulator"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M642JQH5HHNAKBVED75D53EF",
-     "title": "Egg Fried Rice",
-     "poster": "https://kbhgames.com/wp-content/uploads/2025/12/Egg-Fried-Rice.webp",
-     "playUrl": "https://kbhgames.com/game/egg-fried-rice",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Adventure",
-      "Indie",
-      "Horror"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M44503CEN5XSHT5W09SEK5M7",
-     "title": "Hollow Knight",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
-     "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Indie"
      ],
      "desc": ""
     },
@@ -5463,41 +4865,6 @@
       "Action",
       "Indie",
       "Shooter"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M60CWF1PR2W2R10SH922XT3T",
-     "title": "Tekken 4",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken4.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M60CWF1HTSHZ7KXRASFCEHSF",
-     "title": "Ambidextro",
-     "poster": "",
-     "playUrl": "https://ambidextro.surge.sh/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Puzzle",
-      "Indie",
-      "Platformer"
      ],
      "desc": ""
     },
@@ -5658,40 +5025,6 @@
      "desc": ""
     },
     {
-     "id": "01M5W32TFX338FCD9PNGBXEP5E",
-     "title": "SSX 3",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/4/43/SSX_3_Coverart.png",
-     "playUrl": "https://ssx3.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
-      "Sports",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5W2MP44VK31C4FGSMKXGDKX",
-     "title": "Marvel vs Capcom 2",
-     "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marvel_vs_Capcom_logo.png",
-     "playUrl": "https://marvelvscapcom2.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5W1EBMWPNGH1DEJ2DYWFF0K",
      "title": "Pro Evolution Soccer 11",
      "poster": "https://upload.wikimedia.org/wikipedia/en/3/31/Pro_Evolution_Soccer.jpg",
@@ -5738,24 +5071,6 @@
       "Action",
       "Fighting",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5RK3ZG2EW9K2NNENVTWKDB4",
-     "title": "Resident Evil 4",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
-     "playUrl": "https://residentevil4.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Horror",
-      "Shooter"
      ],
      "desc": ""
     },
@@ -5921,10 +5236,10 @@
      "desc": ""
     },
     {
-     "id": "01M2S6FQD72E986AVX98S3G7S8",
-     "title": "PEAK",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
-     "playUrl": "https://wasm.rip/files/peak/PEAK.html",
+     "id": "01M44503CEN5XSHT5W09SEK5M7",
+     "title": "Hollow Knight",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Hollow_Knight_2026_cover_art.jpg",
+     "playUrl": "https://truffled.lol/iframe.html?url=/games/newesthk/index.html",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -5932,8 +5247,8 @@
      "ua": "",
      "tags": [
       "Action",
+      "Fantasy",
       "Adventure",
-      "Open world",
       "Indie"
      ],
      "desc": ""
@@ -6054,24 +5369,6 @@
       "Adventure",
       "Survival",
       "Sandbox"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M4EP297RM31YD70WXZQ55W12",
-     "title": "Windows 98",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
-     "playUrl": "https://berrry.wine/",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Arcade",
-      "Puzzle",
-      "Simulation",
-      "Emulator"
      ],
      "desc": ""
     },
@@ -6378,25 +5675,10 @@
      "desc": ""
     },
     {
-     "id": "01M4PHXHF9XRJKB0R4BPP5J6V5",
-     "title": "Amazing Alex",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/6/61/Amazing_Alex_Official_Logo.png",
-     "playUrl": "https://nomadic-ua.itch.io/amazing-alex",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Puzzle"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M2S6FQD8H176M4GNFJH3CFMA",
      "title": "Among Us",
      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
-     "playUrl": "https://wasm.rip/files/amongus/index.html",
+     "playUrl": "https://wasm.rip/files/amongus/legacy/",
      "coi": false,
      "pad": true,
      "kb": true,
@@ -6636,24 +5918,6 @@
      "desc": ""
     },
     {
-     "id": "01M5MEQVMX01FKZ1HT6TWHX0ZJ",
-     "title": "Burnout 3: Takedown",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Burnout_3_-_Takedown_Coverart.jpg",
-     "playUrl": "https://burnout3.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Racing",
-      "Work-in-progress",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4TSRHSVW72HK3D41HKCTARP",
      "title": "Call of Mini: Dino Hunter",
      "poster": "",
@@ -6683,24 +5947,6 @@
       "Action",
       "Adventure",
       "Indie",
-      "Horror"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3HQ1XWR2ZS1Z3FEGVWE0BVE",
-     "title": "Castlevania Romhacks",
-     "poster": "",
-     "playUrl": "https://kbhgames.com/tag/castlevania",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
       "Horror"
      ],
      "desc": ""
@@ -6964,40 +6210,6 @@
      "desc": ""
     },
     {
-     "id": "01M2S6FQC4QTVFY4HW0QQG6ENR",
-     "title": "Daedalian Opus",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/DaedalianOpusTitleScreen.png",
-     "playUrl": "https://joyrider3774.itch.io/puzzle-land-playdate",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Puzzle",
-      "Strategy"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3BAB0GB4VKRDPXZA226JGXD",
-     "title": "Daggerfall",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daggerfall_Cover_art.gif",
-     "playUrl": "https://daggerfalljs.dev/",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Open world",
-      "Role-playing (RPG)"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5CWY8C5YPTDGP30V6R4763Z",
      "title": "DBZ: Budokai 2",
      "poster": "",
@@ -7011,41 +6223,6 @@
       "Action",
       "Fighting",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X8SY3PRM2N1XK1AC26N",
-     "title": "Def Jam: Fight for NY",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg",
-     "playUrl": "https://def-jam.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSVWGZDBQG49GH8ZDZN",
-     "title": "Deltarune: Lightners Live Plus",
-     "poster": "https://img.itch.zone/aW1nLzIxMzI5MzUyLnBuZw==/original/KMVxNM.png",
-     "playUrl": "https://ezioeagle.itch.io/lightners-live-plus",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Comedy"
      ],
      "desc": ""
     },
@@ -7118,24 +6295,6 @@
       "Science fiction",
       "Strategy",
       "Indie"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15GAYTY968ZZHPJX8VW4",
-     "title": "DOOM",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg",
-     "playUrl": "https://dwasm.m-h.org.uk/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Horror",
-      "Shooter"
      ],
      "desc": ""
     },
@@ -7370,24 +6529,6 @@
      "desc": ""
     },
     {
-     "id": "01M30W4JTCWA9ENETX51EC3A0M",
-     "title": "FF7: The First SOLDIER (Fan Remake)",
-     "poster": "https://img.itch.zone/aW1nLzI0MjA0MzkxLnBuZw==/original/x26fAB.png",
-     "playUrl": "https://fracturedgems.itch.io/final-fantasy-vii-the-first-soldier",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Fantasy",
-      "Survival"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4YVQTQE90S38WTZ0BKXH8Q2",
      "title": "FIFA Street 2",
      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/FIFA_Street_2_Coverart.png",
@@ -7401,42 +6542,6 @@
       "Arcade",
       "Sports",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3GFCYS4T189RQ5Y5AS12SV6",
-     "title": "Final Fantasy Romhacks",
-     "poster": "",
-     "playUrl": "https://romhaven.com/final-fantasy-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Compendium"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M3GFCYRY4X0939B4GR9AXAD3",
-     "title": "Fire Emblem Romhacks",
-     "poster": "",
-     "playUrl": "https://romhaven.com/fire-emblem-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Strategy",
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Compendium"
      ],
      "desc": ""
     },
@@ -7455,24 +6560,6 @@
       "Science fiction",
       "Shooter",
       "Warfare"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JTJTC90RWCTFB05E7KJ",
-     "title": "Five Nights at Freddy's NES",
-     "poster": "https://img.itch.zone/aW1nLzcwMzQ5ODkucG5n/original/9XqrtP.png",
-     "playUrl": "https://endoblance.itch.io/fnafnes",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Strategy",
-      "Indie",
-      "Horror"
      ],
      "desc": ""
     },
@@ -7509,22 +6596,6 @@
       "Horror",
       "Survival",
       "Compendium"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5QN4SAH0W3GXZGXG87C7GR1",
-     "title": "Formula One 06",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/F1_06.jpg",
-     "playUrl": "https://f12006.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
-      "Multiplayer"
      ],
      "desc": ""
     },
@@ -7778,22 +6849,6 @@
      "tags": [
       "Sports",
       "Emulator"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15FFQVABPE1VXHWQDEZS",
-     "title": "Human Killing",
-     "poster": "https://ported2browser.com/storage/covers/human-killing-cover.webp",
-     "playUrl": "https://toen184.itch.io/human-killing-en",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Adventure",
-      "Indie"
      ],
      "desc": ""
     },
@@ -8062,22 +7117,6 @@
      "desc": ""
     },
     {
-     "id": "01M4PHXHETZ8HJ3PZV62VX322J",
-     "title": "Master of Defence",
-     "poster": "https://ported2browser.com/storage/covers/master-of-defence.webp",
-     "playUrl": "https://nomadic-ua.itch.io/master-of-defence",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Strategy",
-      "Real Time Strategy (RTS)"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M4Y4G7YEEZF4BX4KADC2B0SD",
      "title": "Mega Man Legends (Series)",
      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/MMLegendsBox.jpg",
@@ -8186,24 +7225,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS6MHQA103BC1QZS615",
-     "title": "Metroid Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-metroid-cover.webp",
-     "playUrl": "https://romhaven.com/metroid-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Adventure",
-      "Compendium"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M52JPK5WVVCVAK5A2JDFYX1Q",
      "title": "Mindustry",
      "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mindyscreenshot2.png",
@@ -8293,22 +7314,6 @@
      "desc": ""
     },
     {
-     "id": "01M4GX05CNN00DYH2J8VYK27E3",
-     "title": "Moon Child FE",
-     "poster": "https://ported2browser.com/storage/covers/moon-child-fe.webp",
-     "playUrl": "https://mors-games.itch.io/moon-child-fe",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Platformer"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M5GWYE18D76R9W10EXC0P33M",
      "title": "Mortal Kombat: Armageddon",
      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e2/MKAPS2.jpg",
@@ -8321,24 +7326,6 @@
      "tags": [
       "Action",
       "Fighting",
-      "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5GWYE0QWTT93A5DX346W947",
-     "title": "Mortal Kombat: SM",
-     "poster": "https://ported2browser.com/storage/covers/mortal-kombat-shaolin-monks.webp",
-     "playUrl": "https://mortalkombatsm.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Work-in-progress",
       "Multiplayer"
      ],
      "desc": ""
@@ -8499,22 +7486,6 @@
      "desc": ""
     },
     {
-     "id": "01M5ABEHHTT1KBEBMD6WVS2ATR",
-     "title": "NFS: Most Wanted",
-     "poster": "https://ported2browser.com/storage/covers/need-for-speed-most-wanted.webp",
-     "playUrl": "https://dezm0n.itch.io/nfs-most-wanted-web-port",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Racing",
-      "Work-in-progress"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M30H15J2M05S4CZPXW2NZHP5",
      "title": "Nippon Safes Inc.",
      "poster": "https://upload.wikimedia.org/wikipedia/en/9/91/Nippon_Safes_Inc_cover.jpg",
@@ -8545,24 +7516,6 @@
       "Action",
       "Shooter",
       "Stealth"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSENG5SGNAVCQQ7TRBG",
-     "title": "NSMB – Mario Vs Luigi Online",
-     "poster": "https://ported2browser.com/storage/covers/nsmb-mario-vs-luigi-online.webp",
-     "playUrl": "https://ipodtouch0218.itch.io/nsmb-mariovsluigi",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Fangame",
-      "Platformer"
      ],
      "desc": ""
     },
@@ -8836,24 +7789,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS28JZZ373BMDKSQJR5",
-     "title": "Pokémon Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-pokemon-cover.webp",
-     "playUrl": "https://romhaven.com/pokemon-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Role-playing (RPG)",
-      "Kids"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M52FZSRWMVAAB3F6THXNF8MJ",
      "title": "Pokémon Stadium 2",
      "poster": "https://upload.wikimedia.org/wikipedia/en/7/70/Pokemonstadiumbox.jpg",
@@ -8866,24 +7801,6 @@
      "tags": [
       "Strategy",
       "Work-in-progress"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JTQW1TYTBCG6B1H72FN",
-     "title": "PokéPath TD",
-     "poster": "https://ported2browser.com/storage/covers/pokepath-td.webp",
-     "playUrl": "https://khydra98.itch.io/pokepath",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Fantasy",
-      "Adventure",
-      "Strategy",
-      "Role-playing (RPG)"
      ],
      "desc": ""
     },
@@ -8920,42 +7837,6 @@
       "Survival",
       "Fangame",
       "AI game"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15FZXY4FAR7EHVQ748FS",
-     "title": "Quake",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg",
-     "playUrl": "https://qwasm.m-h.org.uk/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Horror",
-      "Shooter"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15G3H4X1GPFV7BBGJEDA",
-     "title": "Quake II",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg",
-     "playUrl": "https://qwasm2.m-h.org.uk/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Horror",
-      "Shooter"
      ],
      "desc": ""
     },
@@ -9080,24 +7961,6 @@
       "Horror",
       "Survival",
       "Multiplayer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15GGBJVK6CASYEVR711R",
-     "title": "Return to Castle Wolfenstein",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Return_to_Castle_Wolfenstein_Coverart.jpg",
-     "playUrl": "https://wwasm.m-h.org.uk/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Science fiction",
-      "Fantasy",
-      "Horror"
      ],
      "desc": ""
     },
@@ -9346,24 +8209,6 @@
      "desc": ""
     },
     {
-     "id": "01M3HNDB7SMNM4H7D1J8QDVSAN",
-     "title": "Sonic Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-sonic-cover.webp",
-     "playUrl": "https://www.retrogames.onl/p/play-sega-genesis-games-online.html#:~:text=Sonic%203%20complete",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Adventure",
-      "Compendium",
-      "Romhack"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M2S6FQBT0S61Q39CJSQ6CR4M",
      "title": "Sonic the Hedgehog",
      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sonic_The_Hedgehog.svg/1280px-Sonic_The_Hedgehog.svg.png",
@@ -9378,22 +8223,6 @@
       "Science fiction",
       "Fantasy",
       "Platformer"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M4PHXHFBC84M4QZZK1QX02A5",
-     "title": "Spore Origins",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Sporemobile.jpg",
-     "playUrl": "https://nomadic-ua.itch.io/spore-origins",
-     "coi": false,
-     "pad": false,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Strategy",
-      "Simulation"
      ],
      "desc": ""
     },
@@ -9466,24 +8295,6 @@
       "Compendium",
       "Beat 'em up",
       "Series"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30W4JSAHJYY8272G5ZAGH03",
-     "title": "Super Mario 127",
-     "poster": "https://ported2browser.com/storage/covers/super-mario-127-itch.webp",
-     "playUrl": "https://solarshine-studios.itch.io/super-mario-127",
-     "coi": true,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Open world"
      ],
      "desc": ""
     },
@@ -9697,23 +8508,6 @@
       "Adventure",
       "Open world",
       "Simulation"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M5P15X94C3XKZFXZTD5TRBZ4",
-     "title": "Tekken 5",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Tekken_1_game_cover.jpg",
-     "playUrl": "https://tekken5.online/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fighting",
-      "Multiplayer"
      ],
      "desc": ""
     },
@@ -10137,24 +8931,6 @@
      "desc": ""
     },
     {
-     "id": "01M3T7CMKA7MPFBC5M2C3JEV10",
-     "title": "Xenosaga Pied Piper",
-     "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Xenosaga_Pied_Piper_logo.jpg",
-     "playUrl": "https://cyclonefox.itch.io/xenosaga-pied-piper",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": false,
-     "ua": "",
-     "tags": [
-      "Science fiction",
-      "Adventure",
-      "Role-playing (RPG)",
-      "Fangame"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M30W4JT8S16K2SJ64SCFP5D4",
      "title": "Xim (FF11 fangame)",
      "poster": "https://ported2browser.com/storage/covers/xim-ffxi-fan-game.webp",
@@ -10209,39 +8985,6 @@
      "desc": ""
     },
     {
-     "id": "01M3GFCYS86JNWS0GWGPA7Z94B",
-     "title": "Zelda Romhacks",
-     "poster": "https://ported2browser.com/storage/covers/rh-zelda-cover.webp",
-     "playUrl": "https://romhaven.com/zelda-rom-hacks/",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Puzzle"
-     ],
-     "desc": ""
-    },
-    {
-     "id": "01M30H15FH7XHZKAT75Z0CNN95",
-     "title": "ZENO Daily Life",
-     "poster": "https://ported2browser.com/storage/covers/zeno-no-nichijou.webp",
-     "playUrl": "https://e9116.itch.io/zdl912",
-     "coi": false,
-     "pad": true,
-     "kb": true,
-     "touch": true,
-     "ua": "",
-     "tags": [
-      "Adventure"
-     ],
-     "desc": ""
-    },
-    {
      "id": "01M40ZXWEHRG2YK2EXSTZWC45W",
      "title": "Zoombinis",
      "poster": "https://upload.wikimedia.org/wikipedia/en/4/46/Zoombinis_Cover.jpg",
@@ -10274,6 +9017,78 @@
       "Fantasy",
       "Adventure",
       "Fangame"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M2S6FQD72E986AVX98S3G7S8",
+     "title": "PEAK",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/PEAK_cover_image.jpg",
+     "playUrl": "https://wasm.rip/files/peak/PEAK.html",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Open world",
+      "Indie"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M4EP297RM31YD70WXZQ55W12",
+     "title": "Windows 98",
+     "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png",
+     "playUrl": "https://berrry.wine/",
+     "coi": false,
+     "pad": false,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Arcade",
+      "Puzzle",
+      "Simulation",
+      "Emulator"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M3HNDB7SMNM4H7D1J8QDVSAN",
+     "title": "Sonic Romhacks",
+     "poster": "https://ported2browser.com/storage/covers/rh-sonic-cover.webp",
+     "playUrl": "https://www.retrogames.onl/p/play-sega-genesis-games-online.html#:~:text=Sonic%203%20complete",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": true,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Adventure",
+      "Compendium",
+      "Romhack"
+     ],
+     "desc": ""
+    },
+    {
+     "id": "01M60CWF1HTSHZ7KXRASFCEHSF",
+     "title": "Ambidextro",
+     "poster": "",
+     "playUrl": "https://ambidextro.surge.sh/",
+     "coi": false,
+     "pad": true,
+     "kb": true,
+     "touch": false,
+     "ua": "",
+     "tags": [
+      "Action",
+      "Puzzle",
+      "Indie",
+      "Platformer"
      ],
      "desc": ""
     }
